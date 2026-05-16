@@ -14,6 +14,7 @@ End-to-end ML pipeline that predicts CYP2C9 metabolizer phenotypes (Poor vs. Int
 │   └── pipelines/            Bash drivers that run the full chain
 ├── outputs/                  Generated CSVs and tabular results (no figures)
 ├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
