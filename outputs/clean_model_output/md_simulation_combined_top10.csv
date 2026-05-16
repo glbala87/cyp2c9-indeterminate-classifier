@@ -1,0 +1,11 @@
+Rank,Source,Diplotype,Effect1,Effect2,Region1,Region2,Priority_or_Prob,Evidence
+1,Known,*3/*30,p.I359L,p.A477T,SRS5,SRS6,80,CPIC no-function
+2,Known,*3/*12,p.I359L,p.P489S,SRS5,SRS6,80,CPIC no-function; proline disrupts helix
+3,Known,*12/*35,p.P489S,"p.R125H; p.R125L , p.R144C",SRS6,SRS1,70,CPIC no-function; proline disrupts helix
+4,Known,*12/*52,p.P489S,p.T299R,SRS6,SRS4,70,CPIC no-function; proline disrupts helix
+5,Known,*30/*39,p.A477T,p.G98V,SRS6,SRS1,70,CPIC no-function
+6,Predicted,*34/*43,p.R132Q,p.R124W,Non-SRS,SRS1,99.3%,Non-SRS+SRS1 hit; high confidence
+7,Predicted,*34/*39,p.R132Q,p.G98V,Non-SRS,SRS1,99.1%,Non-SRS+SRS1 hit; high confidence
+8,Predicted,*24/*34,p.E354K,p.R132Q,Non-SRS,Non-SRS,98.2%,Non-SRS+Non-SRS hit; high confidence
+9,Predicted,*40/*45,p.F110S,p.R132W,SRS1,Non-SRS,98.1%,SRS1+Non-SRS hit; high confidence
+10,Predicted,*15/*34,p.S162X,p.R132Q,Non-SRS,Non-SRS,97.9%,Non-SRS+Non-SRS hit; high confidence

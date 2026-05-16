@@ -1,0 +1,56 @@
+ID	PGx Level	Source	Title	Genes	Drugs
+PA166273261		EMA	Annotation of EMA Label for ospemifene and CYP2B6, CYP2C9	CYP2B6; CYP2C9	ospemifene
+PA166104917	No Clinical PGx	FDA	Annotation of FDA Label for prasugrel and CYP2B6, CYP2C19, CYP2C9, CYP3A5	CYP2B6; CYP2C19; CYP2C9; CYP3A5	prasugrel
+PA166183181	Actionable PGx	EMA	Annotation of EMA Label for lesinurad and CYP2C9	CYP2C9	lesinurad
+PA166184385	Informative PGx	Swissmedic	Annotation of Swissmedic Label for lesinurad and CYP2C9	CYP2C9	lesinurad
+PA166184345	Actionable PGx	Swissmedic	Annotation of Swissmedic Label for phenytoin and CYP2C9, HLA-B	CYP2C9; HLA-B	phenytoin
+PA166184388	Actionable PGx	Swissmedic	Annotation of Swissmedic Label for losartan and CYP2C9, CYP3A4	CYP2C9; CYP3A4	losartan
+PA166269121	Informative PGx	FDA	Annotation of FDA Label for nateglinide and CYP2C9	CYP2C9	nateglinide
+PA166182766	Actionable PGx	FDA	Annotation of FDA Label for fosphenytoin and CYP2C9, HLA-B	CYP2C9; HLA-B	fosphenytoin
+PA166182722	Actionable PGx	FDA	Annotation of FDA Label for erdafitinib and CYP2C9	CYP2C9	erdafitinib
+PA166400401	Informative PGx	EMA	Annotation of EMA Label for seladelpar and CYP2C9	CYP2C9	seladelpar
+PA166345321	Actionable PGx	HCSC	Annotation of HCSC Label for glyburide and CYP2C9	CYP2C9	glyburide
+PA166400441	Actionable PGx	FDA	Annotation of FDA Label for seladelpar and CYP2C9	CYP2C9	seladelpar
+PA166278581	Testing Required	HCSC	Annotation of HCSC Label for siponimod and CYP2C9	CYP2C9	siponimod
+PA166182738	Testing Required	FDA	Annotation of FDA Label for siponimod and CYP2C9	CYP2C9	siponimod
+PA166153432	Informative PGx	FDA	Annotation of FDA Label for flibanserin and CYP2C9, CYP2D6	CYP2C9; CYP2D6	flibanserin
+PA166184917	Informative PGx	FDA	Annotation of FDA Label for avatrombopag and CYP2C9	CYP2C9	avatrombopag
+PA166400362	Testing Recommended	FDA	Annotation of FDA Label for deuruxolitinib and CYP2C9	CYP2C9	deuruxolitinib
+PA166240301	Actionable PGx	EMA	Annotation of EMA Label for avatrombopag and CYP2C9, F2, F5, PROC, PROS1, SERPINC1	CYP2C9; F2; F5; PROC; PROS1; SERPINC1	avatrombopag
+PA166343901	Actionable PGx	HCSC	Annotation of HCSC Label for avatrombopag and CYP2C9, F2, F5, PROC, PROS1, SERPINC1	CYP2C9; F2; F5; PROC; PROS1; SERPINC1	avatrombopag
+PA166184394	Informative PGx	Swissmedic	Annotation of Swissmedic Label for prasugrel and CYP2B6, CYP2C19, CYP2C9, CYP3A5	CYP2B6; CYP2C19; CYP2C9; CYP3A5	prasugrel
+PA166329181	Informative PGx	HCSC	Annotation of HCSC Label for etrasimod and CYP2C9	CYP2C9	etrasimod
+PA166329261	Actionable PGx	EMA	Annotation of EMA Label for etrasimod and CYP2C9	CYP2C9	etrasimod
+PA166273001	No Clinical PGx	HCSC	Annotation of HCSC Label for abrocitinib and CYP2C19, CYP2C9	CYP2C19; CYP2C9	abrocitinib
+PA166105321	No Clinical PGx	EMA	Annotation of EMA Label for prasugrel and CYP2B6, CYP2C19, CYP2C9, CYP3A5	CYP2B6; CYP2C19; CYP2C9; CYP3A5	prasugrel
+PA166184119	Actionable PGx	Swissmedic	Annotation of Swissmedic Label for celecoxib and CYP2C9	CYP2C9	celecoxib
+PA166127732	Actionable PGx	HCSC	Annotation of HCSC Label for warfarin and CYP2C9, VKORC1	CYP2C9; VKORC1	warfarin
+PA166160007	Actionable PGx	FDA	Annotation of FDA Label for lesinurad and CYP2C9	CYP2C9	lesinurad
+PA166104776	Actionable PGx	FDA	Annotation of FDA Label for warfarin and CYP2C9, VKORC1	CYP2C9; VKORC1	warfarin
+PA166281781		HCSC	Annotation of HCSC Label for ospemifene and CYP2B6, CYP2C9	CYP2B6; CYP2C9	ospemifene
+PA166225042	No Clinical PGx	FDA	Annotation of FDA Label for rimegepant and CYP2C9	CYP2C9	rimegepant
+PA166183593	Actionable PGx	Swissmedic	Annotation of Swissmedic Label for acenocoumarol and CYP2C9	CYP2C9	acenocoumarol
+PA166272981	No Clinical PGx	EMA	Annotation of EMA Label for abrocitinib and CYP2C19, CYP2C9	CYP2C19; CYP2C9	abrocitinib
+PA166163422	Actionable PGx	FDA	Annotation of FDA Label for dronabinol and CYP2C9	CYP2C9	dronabinol
+PA166160153	Actionable PGx	PMDA	Annotation of PMDA Label for celecoxib and CYP2C9	CYP2C9	celecoxib
+PA166284261	Informative PGx	HCSC	Annotation of HCSC Label for fosphenytoin and CYP2C9	CYP2C9	fosphenytoin
+PA166104860	Actionable PGx	FDA	Annotation of FDA Label for phenytoin and CYP2C9, HLA-B	CYP2C9; HLA-B	phenytoin
+PA166272701	No Clinical PGx	EMA	Annotation of EMA Label for rimegepant and CYP2C9	CYP2C9	rimegepant
+PA166127647	Actionable PGx	HCSC	Annotation of HCSC Label for celecoxib and CYP2C9	CYP2C9	celecoxib
+PA166272821	Testing Required	EMA	Annotation of EMA Label for siponimod and CYP2C9	CYP2C9	siponimod
+PA166345341	Actionable PGx	HCSC	Annotation of HCSC Label for glimepiride and CYP2C9	CYP2C9	glimepiride
+PA166284101	Actionable PGx	HCSC	Annotation of HCSC Label for erdafitinib and CYP2C9	CYP2C9	erdafitinib
+PA166104843	Actionable PGx	FDA	Annotation of FDA Label for celecoxib and CYP2C9	CYP2C9	celecoxib
+PA166104922	Actionable PGx	FDA	Annotation of FDA Label for flurbiprofen and CYP2C9	CYP2C9	flurbiprofen
+PA166185190		FDA	Annotation of FDA Label for ospemifene and CYP2B6, CYP2C9	CYP2B6; CYP2C9	ospemifene
+PA166269401	Actionable PGx	EMA	Annotation of EMA Label for nateglinide and CYP2C9	CYP2C9	nateglinide
+PA166358861	No Clinical PGx	HCSC	Annotation of HCSC Label for prasugrel and CYP2B6, CYP2C19, CYP2C9, CYP3A5	CYP2B6; CYP2C19; CYP2C9; CYP3A5	prasugrel
+PA166184380	Informative PGx	Swissmedic	Annotation of Swissmedic Label for brivaracetam and CYP2C19, CYP2C9	CYP2C19; CYP2C9	brivaracetam
+PA166184373	Actionable PGx	Swissmedic	Annotation of Swissmedic Label for piroxicam and CYP2C9	CYP2C9	piroxicam
+PA166357727	Informative PGx	HCSC	Annotation of HCSC Label for flibanserin and CYP2C9, CYP2D6	CYP2C9; CYP2D6	flibanserin
+PA166182753	Informative PGx	FDA	Annotation of FDA Label for meloxicam and CYP2C9	CYP2C9	meloxicam
+PA166283181		HCSC	Annotation of HCSC Label for meloxicam and CYP2C9	CYP2C9	meloxicam
+PA166329161	Informative PGx	FDA	Annotation of FDA Label for etrasimod and CYP2C9	CYP2C9	etrasimod
+PA166357729	Actionable PGx	HCSC	Annotation of HCSC Label for flurbiprofen and CYP2C9	CYP2C9	flurbiprofen
+PA166105222	Actionable PGx	FDA	Annotation of FDA Label for piroxicam and CYP2C9	CYP2C9	piroxicam
+PA166317948	No Clinical PGx	HCSC	Annotation of HCSC Label for rimegepant and CYP2C9	CYP2C9	rimegepant

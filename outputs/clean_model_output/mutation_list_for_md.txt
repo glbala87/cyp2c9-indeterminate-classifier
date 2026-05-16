@@ -1,0 +1,16 @@
+# CYP2C9 Mutations for MD Simulation
+# Format: ResidueNumber OriginalAA MutantAA
+# Use with GROMACS pmx or similar tools
+
+98 G V  # p.G98V
+110 F S  # p.F110S
+124 R W  # p.R124W
+125 R H  # p.R125H
+132 R Q  # p.R132Q
+132 R W  # p.R132W
+162 S X  # p.S162X
+299 T R  # p.T299R
+354 E K  # p.E354K
+359 I L  # p.I359L
+477 A T  # p.A477T
+489 P S  # p.P489S

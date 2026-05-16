@@ -1,0 +1,8 @@
+Metric,Value
+Total_Predictions,2184
+High_Confidence_Total,1036
+High_Confidence_Percent,47.4%
+High_Conf_Poor,525
+High_Conf_Intermediate,511
+Mean_Prob_Poor_HC_Poor,0.929
+Mean_Prob_Poor_HC_Inter,0.075

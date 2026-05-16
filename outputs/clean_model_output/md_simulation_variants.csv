@@ -1,0 +1,24 @@
+Effect,Position,Region,Type,Source,Region_Priority
+p.R433W,433,SRS6,missense,Predicted,1
+p.I434F,434,SRS6,missense,Predicted,1
+p.G442V,442,SRS6,missense,Predicted,1
+p.Q454H,454,SRS6,missense,Predicted,1
+p.L467P,467,SRS6,missense,Predicted,1
+p.I359L,359,SRS5,missense,Known,2
+p.D360E,360,SRS5,missense,Predicted,2
+p.L361I,361,SRS5,missense,Predicted,2
+p.L362V,362,SRS5,missense,Predicted,2
+p.P382S,382,SRS5,missense,Predicted,2
+p.I387V,387,SRS5,missense,Predicted,2
+p.G98V,98,SRS1,missense,Predicted,3
+p.F110S,110,SRS1,missense,Predicted,3
+p.K119R,119,SRS1,missense,Predicted,3
+p.R124W,124,SRS1,missense,Predicted,3
+p.R124Q,124,SRS1,missense,Predicted,3
+p.R125C,125,SRS1,missense,Predicted,3
+p.R125H; p.R125L,125,SRS1,missense,Known,3
+p.L90P,90,Non-SRS,missense,Known,6
+p.R150H; p.R150L,150,Non-SRS,missense,Known,6
+p.S162X,162,Non-SRS,missense,Known,6
+p.K273fs(delA),273,Non-SRS,frameshift,Known,6
+p.R335W,335,Non-SRS,missense,Known,6

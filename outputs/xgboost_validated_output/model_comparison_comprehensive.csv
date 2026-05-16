@@ -1,0 +1,4 @@
+Model,CV_Accuracy,CV_F1,CV_ROC_AUC,Test_Accuracy,High_Conf_Percent
+XGBoost,90.35% ± 2.07%,0.9132,0.9722,90.23%,62.6%
+Random Forest,88.39% ± 1.45%,0.8958,0.9617,87.22%,35.3%
+SVM,86.58% ± 1.60%,0.8814,0.9218,86.47%,49.9%

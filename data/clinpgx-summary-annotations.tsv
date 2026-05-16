@@ -1,0 +1,75 @@
+ID	Level	Variant	Gene	Drugs	Phenotype Categories	Phenotype	Pediatric
+655384724	3	rs4086116	CYP2C9	acenocoumarol	Dosage		false
+982047500	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3; CYP2C9*5; CYP2C9*6; CYP2C9*8; CYP2C9*11; CYP2C9*13; CYP2C9*14; CYP2C9*16; CYP2C9*29; CYP2C9*31; CYP2C9*33; CYP2C9*37; CYP2C9*39; CYP2C9*42; CYP2C9*43; CYP2C9*45; CYP2C9*50; CYP2C9*52; CYP2C9*55	CYP2C9	phenytoin	Metabolism/PK	Epilepsy	true
+1451148920	3	CYP2C9*1; CYP2C9*29	CYP2C9	warfarin	Metabolism/PK		false
+1449565422	3	rs1029359343	CYP2C9	phenytoin	Toxicity	Drug Toxicity	true
+1447672640	4	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	warfarin	Efficacy		true
+1184986540	3	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	sulfonamides, urea derivatives	Toxicity	Diabetes Mellitus, Type 2	false
+1183703296	1A	CYP2C9*1; CYP2C9*3; CYP2C9*13	CYP2C9	lornoxicam	Metabolism/PK		false
+1451092720	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	ibuprofen	Metabolism/PK		false
+1449269868	2A	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	acenocoumarol	Toxicity	Hemorrhage	false
+1451678600	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	fluvastatin	Toxicity		false
+1449565416	3	rs544027339	CYP2C9	phenytoin	Toxicity	Drug Toxicity	true
+1444665995	3	CYP2C9*1; CYP2C9*2; CYP2C9*3; CYP2C9*8; CYP2C9*13; CYP2C9*36; CYP2C9*37; CYP2C9*38; CYP2C9*39; CYP2C9*40; CYP2C9*42; CYP2C9*43; CYP2C9*44; CYP2C9*45; CYP2C9*46; CYP2C9*47; CYP2C9*48; CYP2C9*50; CYP2C9*52; CYP2C9*53; CYP2C9*54; CYP2C9*55; CYP2C9*59; CYP2C9*60; CYP2C9*62	CYP2C9	diclofenac	Metabolism/PK		false
+1451092460	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	tenoxicam	Metabolism/PK		false
+1451148780	3	rs780801862	CYP2C9	naproxen	Metabolism/PK		false
+1444700558	3	rs4086116	CYP2C9	phenprocoumon	Dosage		false
+1447990235	3	rs72558187	CYP2C9	irbesartan	Metabolism/PK		false
+1450809583	3	CYP2C9*1; CYP2C9*2; CYP2C9*3; CYP2C9*62	CYP2C9	tolbutamide	Metabolism/PK		false
+1451810960	3	CYP2C9*1; CYP2C9*3	CYP2C9	phenytoin	Toxicity	Stevens-Johnson Syndrome	false
+981238501	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	phenytoin	Toxicity	Epilepsy	true
+1448428239	3	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	valproic acid	Dosage,Metabolism/PK	Bipolar Disorder; Psychotic Disorder	false
+1447672658	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3; CYP2C9*5; CYP2C9*6; CYP2C9*11	CYP2C9	warfarin	Toxicity	over-anticoagulation	true
+1451229340	4	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	methadone	Metabolism/PK		false
+1451516314	3	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	phenprocoumon	Dosage		true
+1043858840	3	rs9332096	CYP2C9	warfarin	Dosage		false
+1451148762	3	rs780801862	CYP2C9	flurbiprofen	Metabolism/PK		false
+1445296897	3	CYP2C9*1; CYP2C9*59	CYP2C9	warfarin	Dosage		false
+1451139160	4	CYP2C9*1; CYP2C9*2; CYP2C9*3; CYP2C9*29	CYP2C9	naproxen	Metabolism/PK		false
+1451516322	3	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	phenprocoumon	Metabolism/PK		false
+1449565774	3	CYP2C9*1; CYP2C9*19; CYP2C9*27; CYP2C9*36; CYP2C9*40; CYP2C9*41; CYP2C9*47; CYP2C9*49; CYP2C9*51; CYP2C9*53; CYP2C9*54; CYP2C9*56	CYP2C9	phenytoin	Metabolism/PK		false
+1451815200	3	CYP2C9*1; CYP2C9*2	CYP2C9	ketoprofen	Toxicity	Dyspepsia; Pain, Postoperative	false
+1043880337	3	rs10509680	CYP2C9	warfarin	Dosage		false
+1447990143	3	rs1057910	CYP2C9	irbesartan	Efficacy,Metabolism/PK	Essential hypertension	false
+1451666740	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	fluvastatin	Metabolism/PK		false
+1444686760	3	rs1799853	CYP2C9	busulfan	Metabolism/PK	Hematopoietic stem cell transplantation	true
+1451092677	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3; CYP2C9*13	CYP2C9	meloxicam	Metabolism/PK		false
+981238341	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3; CYP2C9*4; CYP2C9*5; CYP2C9*6; CYP2C9*8; CYP2C9*11	CYP2C9	warfarin	Dosage	Cardiovascular Disease	true
+1449188570	1B	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	acenocoumarol	Toxicity	over-anticoagulation	false
+1043873028	3	rs12782374	CYP2C9	phenytoin	Dosage	Epilepsy	false
+1043859462	3	CYP2C9*1; CYP2C9*3	CYP2C9	doxepin	Efficacy		false
+1451092541	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	piroxicam	Metabolism/PK		false
+1451337408	3	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	sulfonamides, urea derivatives	Efficacy	Diabetes Mellitus	false
+981238459	3	rs1057910	CYP2C9	losartan	Efficacy		false
+1447672600	2A	CYP2C9*1; CYP2C9*2; CYP2C9*3; CYP2C9*13; CYP2C9*14	CYP2C9	warfarin	Efficacy	Atrial Fibrillation; Heart valve replacement	true
+1451140140	3	CYP2C9*1; CYP2C9*3	CYP2C9	indomethacin	Toxicity		false
+1447990044	3	rs1799853	CYP2C9	irbesartan	Efficacy		false
+1447672988	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3; CYP2C9*5; CYP2C9*6; CYP2C9*11	CYP2C9	warfarin	Toxicity	Hemorrhage	true
+1451148840	3	rs780801862	CYP2C9	warfarin	Metabolism/PK		false
+1183621972	3	CYP2C9*1; CYP2C9*3	CYP2C9	trimipramine	Other		false
+981238437	3	rs1057910	CYP2C9	Antiinflammatory agents, non-steroids; celecoxib; diclofenac	Toxicity		false
+1450932256	3	rs9332096	CYP2C9	ethambutol; isoniazid; pyrazinamide; rifampin	Toxicity	Maculopapular Exanthema; Tuberculosis	false
+1451236700	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3; CYP2C9*13	CYP2C9	celecoxib	Metabolism/PK		true
+1448123060	3	CYP2C9*1; CYP2C9*3; CYP2C9*13	CYP2C9	zafirlukast	Metabolism/PK		false
+1444842106	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3; CYP2C9*29	CYP2C9	flurbiprofen	Metabolism/PK		false
+1451638880	3	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	ketorolac	Efficacy	Pain, Postoperative	false
+1447672622	4	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	warfarin	Efficacy		true
+1450935826	3	rs761895497	CYP2C9	tolbutamide	Metabolism/PK		false
+1451148820	3	rs780801862	CYP2C9	phenytoin	Metabolism/PK		false
+982037603	4	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	clopidogrel	Efficacy	Acute coronary syndrome; Coronary Artery Disease	false
+827848762	3	rs9332239	CYP2C9	tolbutamide	Other		false
+1444607466	3	CYP2C9*1; CYP2C9*2; CYP2C9*3; CYP2C9*6	CYP2C9	olanzapine	Toxicity	Hypotensive disorder	false
+1451815160	3	CYP2C9*1; CYP2C9*3	CYP2C9	ketoprofen	Efficacy	Pain, Postoperative	false
+1043880392	3	rs4918758	CYP2C9	warfarin	Dosage		false
+1450935819	3	rs771237265	CYP2C9	tolbutamide	Metabolism/PK		false
+1183697278	3	rs1934969	CYP2C9	losartan	Other		false
+1043858892	3	rs7089580	CYP2C9	warfarin	Dosage		false
+1043880397	3	rs4917639	CYP2C9	warfarin	Dosage		false
+1451139080	3	CYP2C9*1; CYP2C9*3	CYP2C9	dipyrone	Metabolism/PK		false
+1449003817	3	rs1799853	CYP2C9	hormonal contraceptives for systemic use	Toxicity		false
+982033279	1B	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	acenocoumarol	Dosage		false
+1445401439	3	rs1934969	CYP2C9	phenytoin	Metabolism/PK	Epilepsy	false
+1183704311	3	rs71486745	CYP2C9	phenytoin	Dosage		false
+1451231100	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	siponimod	Metabolism/PK		false
+1450935813	3	rs762081829	CYP2C9	tolbutamide	Metabolism/PK		false
+1183615090	3	CYP2C9*1; CYP2C9*2; CYP2C9*3; CYP2C9*5; CYP2C9*6; CYP2C9*8; CYP2C9*13; CYP2C9*59; CYP2C9*62	CYP2C9	losartan	Metabolism/PK		false

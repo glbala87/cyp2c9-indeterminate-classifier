@@ -1,0 +1,365 @@
+Group,Diplotype,Effect1,Effect2,Variant1,Variant2,CADD1,REVEL1,SpliceAI1,Score_Source1,CADD2,REVEL2,SpliceAI2,Score_Source2,Max_CADD,Max_REVEL,Max_SpliceAI
+Poor_Metabolizer,*2/*3,p.R144C,p.I359L,p.R144C,p.I359L,26.5,0.651,0.01,Validated,24.8,0.584,0.02,Validated,26.5,0.651,0.02
+Poor_Metabolizer,*2/*6,p.R144C,p.K273fs(delA),p.R144C,p.K273fs,26.5,0.651,0.01,Validated,20.0,0.4,0.01,Estimated,26.5,0.651,0.01
+Poor_Metabolizer,*2/*13,p.R144C,p.L90P,p.R144C,p.L90P,26.5,0.651,0.01,Validated,28.1,0.823,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*2/*15,p.R144C,p.S162X,p.R144C,p.S162X,26.5,0.651,0.01,Validated,35.0,0.95,0.05,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*2/*24,p.R144C,p.E354K,p.R144C,p.E354K,26.5,0.651,0.01,Validated,24.5,0.562,0.01,Validated,26.5,0.651,0.01
+Poor_Metabolizer,*2/*25,p.R144C,,p.R144C,wild-type,26.5,0.651,0.01,Validated,18.0,0.36,0.01,Wild-type default,26.5,0.651,0.01
+Poor_Metabolizer,*2/*33,p.R144C,p.R132Q,p.R144C,p.R132Q,26.5,0.651,0.01,Validated,24.5,0.582,0.01,Validated,26.5,0.651,0.01
+Poor_Metabolizer,*2/*35,p.R144C,"p.R125H; p.R125L , p.R144C",p.R144C,p.R125H,26.5,0.651,0.01,Validated,25.8,0.71,0.02,Validated,26.5,0.71,0.02
+Poor_Metabolizer,*2/*39,p.R144C,p.G98V,p.R144C,p.G98V,26.5,0.651,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*2/*42,p.R144C,p.R124Q,p.R144C,p.R124Q,26.5,0.651,0.01,Validated,25.8,0.623,0.01,Validated,26.5,0.651,0.01
+Poor_Metabolizer,*2/*43,p.R144C,p.R124W,p.R144C,p.R124W,26.5,0.651,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*2/*45,p.R144C,p.R132W,p.R144C,p.R132W,26.5,0.651,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*2/*52,p.R144C,p.T299R,p.R144C,p.T299R,26.5,0.651,0.01,Validated,24.5,0.552,0.01,Validated,26.5,0.651,0.01
+Poor_Metabolizer,*3/*3,p.I359L,p.I359L,p.I359L,p.I359L,24.8,0.584,0.02,Validated,24.8,0.584,0.02,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*4,p.I359L,p.I359T,p.I359L,p.I359T,24.8,0.584,0.02,Validated,25.2,0.618,0.01,Validated,25.2,0.618,0.02
+Poor_Metabolizer,*3/*5,p.I359L,p.D360E,p.I359L,p.D360E,24.8,0.584,0.02,Validated,23.1,0.445,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*6,p.I359L,p.K273fs(delA),p.I359L,p.K273fs,24.8,0.584,0.02,Validated,20.0,0.4,0.01,Estimated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*8,p.I359L,p.R150H; p.R150L,p.I359L,p.R150H,24.8,0.584,0.02,Validated,22.4,0.418,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*11,p.I359L,p.R335W,p.I359L,p.R335W,24.8,0.584,0.02,Validated,27.2,0.778,0.02,Validated,27.2,0.778,0.02
+Poor_Metabolizer,*3/*12,p.I359L,p.P489S,p.I359L,p.P489S,24.8,0.584,0.02,Validated,21.5,0.382,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*13,p.I359L,p.L90P,p.I359L,p.L90P,24.8,0.584,0.02,Validated,28.1,0.823,0.01,Validated,28.1,0.823,0.02
+Poor_Metabolizer,*3/*14,p.I359L,p.R125H; p.R125L,p.I359L,p.R125H,24.8,0.584,0.02,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*3/*15,p.I359L,p.S162X,p.I359L,p.S162X,24.8,0.584,0.02,Validated,35.0,0.95,0.05,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*3/*16,p.I359L,p.T299A,p.I359L,p.T299A,24.8,0.584,0.02,Validated,23.0,0.478,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*23,p.I359L,p.V76M,p.I359L,p.V76M,24.8,0.584,0.02,Validated,22.8,0.438,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*24,p.I359L,p.E354K,p.I359L,p.E354K,24.8,0.584,0.02,Validated,24.5,0.562,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*25,p.I359L,,p.I359L,wild-type,24.8,0.584,0.02,Validated,18.0,0.36,0.01,Wild-type default,24.8,0.584,0.02
+Poor_Metabolizer,*3/*26,p.I359L,p.T130R; p.T130M,p.I359L,p.T130R,24.8,0.584,0.02,Validated,20.0,0.4,0.01,Estimated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*28,p.I359L,p.Q214L,p.I359L,p.Q214L,24.8,0.584,0.02,Validated,23.5,0.492,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*29,p.I359L,p.P279T,p.I359L,p.P279T,24.8,0.584,0.02,Validated,23.2,0.492,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*30,p.I359L,p.A477T,p.I359L,p.A477T,24.8,0.584,0.02,Validated,21.8,0.412,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*31,p.I359L,p.I327T,p.I359L,p.I327T,24.8,0.584,0.02,Validated,24.2,0.538,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*33,p.I359L,p.R132Q,p.I359L,p.R132Q,24.8,0.584,0.02,Validated,24.5,0.582,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*35,p.I359L,"p.R125H; p.R125L , p.R144C",p.I359L,p.R125H,24.8,0.584,0.02,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*3/*37,p.I359L,p.D49G,p.I359L,p.D49G,24.8,0.584,0.02,Validated,23.2,0.478,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*38,p.I359L,p.G96A,p.I359L,p.G96A,24.8,0.584,0.02,Validated,22.5,0.425,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*39,p.I359L,p.G98V,p.I359L,p.G98V,24.8,0.584,0.02,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.02
+Poor_Metabolizer,*3/*42,p.I359L,p.R124Q,p.I359L,p.R124Q,24.8,0.584,0.02,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.02
+Poor_Metabolizer,*3/*43,p.I359L,p.R124W,p.I359L,p.R124W,24.8,0.584,0.02,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.02
+Poor_Metabolizer,*3/*44,p.I359L,p.T130R; p.T130M,p.I359L,p.T130R,24.8,0.584,0.02,Validated,20.0,0.4,0.01,Estimated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*45,p.I359L,p.R132W,p.I359L,p.R132W,24.8,0.584,0.02,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.02
+Poor_Metabolizer,*3/*46,p.I359L,p.A149T,p.I359L,p.A149T,24.8,0.584,0.02,Validated,20.8,0.372,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*50,p.I359L,p.P227S,p.I359L,p.P227S,24.8,0.584,0.02,Validated,22.8,0.465,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*52,p.I359L,p.T299R,p.I359L,p.T299R,24.8,0.584,0.02,Validated,24.5,0.552,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*55,p.I359L,p.L361I,p.I359L,p.L361I,24.8,0.584,0.02,Validated,16.8,0.245,0.01,Validated,24.8,0.584,0.02
+Poor_Metabolizer,*3/*61,p.I359L,"p.R144C , p.N457S",p.I359L,p.R144C,24.8,0.584,0.02,Validated,26.5,0.651,0.01,Validated,26.5,0.651,0.02
+Poor_Metabolizer,*4/*6,p.I359T,p.K273fs(delA),p.I359T,p.K273fs,25.2,0.618,0.01,Validated,20.0,0.4,0.01,Estimated,25.2,0.618,0.01
+Poor_Metabolizer,*4/*13,p.I359T,p.L90P,p.I359T,p.L90P,25.2,0.618,0.01,Validated,28.1,0.823,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*4/*15,p.I359T,p.S162X,p.I359T,p.S162X,25.2,0.618,0.01,Validated,35.0,0.95,0.05,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*4/*24,p.I359T,p.E354K,p.I359T,p.E354K,25.2,0.618,0.01,Validated,24.5,0.562,0.01,Validated,25.2,0.618,0.01
+Poor_Metabolizer,*4/*25,p.I359T,,p.I359T,wild-type,25.2,0.618,0.01,Validated,18.0,0.36,0.01,Wild-type default,25.2,0.618,0.01
+Poor_Metabolizer,*4/*33,p.I359T,p.R132Q,p.I359T,p.R132Q,25.2,0.618,0.01,Validated,24.5,0.582,0.01,Validated,25.2,0.618,0.01
+Poor_Metabolizer,*4/*35,p.I359T,"p.R125H; p.R125L , p.R144C",p.I359T,p.R125H,25.2,0.618,0.01,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*4/*39,p.I359T,p.G98V,p.I359T,p.G98V,25.2,0.618,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*4/*42,p.I359T,p.R124Q,p.I359T,p.R124Q,25.2,0.618,0.01,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*4/*43,p.I359T,p.R124W,p.I359T,p.R124W,25.2,0.618,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*4/*45,p.I359T,p.R132W,p.I359T,p.R132W,25.2,0.618,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*4/*52,p.I359T,p.T299R,p.I359T,p.T299R,25.2,0.618,0.01,Validated,24.5,0.552,0.01,Validated,25.2,0.618,0.01
+Poor_Metabolizer,*5/*6,p.D360E,p.K273fs(delA),p.D360E,p.K273fs,23.1,0.445,0.01,Validated,20.0,0.4,0.01,Estimated,23.1,0.445,0.01
+Poor_Metabolizer,*5/*13,p.D360E,p.L90P,p.D360E,p.L90P,23.1,0.445,0.01,Validated,28.1,0.823,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*5/*15,p.D360E,p.S162X,p.D360E,p.S162X,23.1,0.445,0.01,Validated,35.0,0.95,0.05,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*5/*24,p.D360E,p.E354K,p.D360E,p.E354K,23.1,0.445,0.01,Validated,24.5,0.562,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*5/*25,p.D360E,,p.D360E,wild-type,23.1,0.445,0.01,Validated,18.0,0.36,0.01,Wild-type default,23.1,0.445,0.01
+Poor_Metabolizer,*5/*33,p.D360E,p.R132Q,p.D360E,p.R132Q,23.1,0.445,0.01,Validated,24.5,0.582,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*5/*35,p.D360E,"p.R125H; p.R125L , p.R144C",p.D360E,p.R125H,23.1,0.445,0.01,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*5/*39,p.D360E,p.G98V,p.D360E,p.G98V,23.1,0.445,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*5/*42,p.D360E,p.R124Q,p.D360E,p.R124Q,23.1,0.445,0.01,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*5/*43,p.D360E,p.R124W,p.D360E,p.R124W,23.1,0.445,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*5/*45,p.D360E,p.R132W,p.D360E,p.R132W,23.1,0.445,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*5/*52,p.D360E,p.T299R,p.D360E,p.T299R,23.1,0.445,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*6/*6,p.K273fs(delA),p.K273fs(delA),p.K273fs,p.K273fs,20.0,0.4,0.01,Estimated,20.0,0.4,0.01,Estimated,20.0,0.4,0.01
+Poor_Metabolizer,*6/*8,p.K273fs(delA),p.R150H; p.R150L,p.K273fs,p.R150H,20.0,0.4,0.01,Estimated,22.4,0.418,0.01,Validated,22.4,0.418,0.01
+Poor_Metabolizer,*6/*11,p.K273fs(delA),p.R335W,p.K273fs,p.R335W,20.0,0.4,0.01,Estimated,27.2,0.778,0.02,Validated,27.2,0.778,0.02
+Poor_Metabolizer,*6/*12,p.K273fs(delA),p.P489S,p.K273fs,p.P489S,20.0,0.4,0.01,Estimated,21.5,0.382,0.01,Validated,21.5,0.4,0.01
+Poor_Metabolizer,*6/*13,p.K273fs(delA),p.L90P,p.K273fs,p.L90P,20.0,0.4,0.01,Estimated,28.1,0.823,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*6/*14,p.K273fs(delA),p.R125H; p.R125L,p.K273fs,p.R125H,20.0,0.4,0.01,Estimated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*6/*15,p.K273fs(delA),p.S162X,p.K273fs,p.S162X,20.0,0.4,0.01,Estimated,35.0,0.95,0.05,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*6/*16,p.K273fs(delA),p.T299A,p.K273fs,p.T299A,20.0,0.4,0.01,Estimated,23.0,0.478,0.01,Validated,23.0,0.478,0.01
+Poor_Metabolizer,*6/*23,p.K273fs(delA),p.V76M,p.K273fs,p.V76M,20.0,0.4,0.01,Estimated,22.8,0.438,0.01,Validated,22.8,0.438,0.01
+Poor_Metabolizer,*6/*24,p.K273fs(delA),p.E354K,p.K273fs,p.E354K,20.0,0.4,0.01,Estimated,24.5,0.562,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*6/*25,p.K273fs(delA),,p.K273fs,wild-type,20.0,0.4,0.01,Estimated,18.0,0.36,0.01,Wild-type default,20.0,0.4,0.01
+Poor_Metabolizer,*6/*26,p.K273fs(delA),p.T130R; p.T130M,p.K273fs,p.T130R,20.0,0.4,0.01,Estimated,20.0,0.4,0.01,Estimated,20.0,0.4,0.01
+Poor_Metabolizer,*6/*28,p.K273fs(delA),p.Q214L,p.K273fs,p.Q214L,20.0,0.4,0.01,Estimated,23.5,0.492,0.01,Validated,23.5,0.492,0.01
+Poor_Metabolizer,*6/*29,p.K273fs(delA),p.P279T,p.K273fs,p.P279T,20.0,0.4,0.01,Estimated,23.2,0.492,0.01,Validated,23.2,0.492,0.01
+Poor_Metabolizer,*6/*30,p.K273fs(delA),p.A477T,p.K273fs,p.A477T,20.0,0.4,0.01,Estimated,21.8,0.412,0.01,Validated,21.8,0.412,0.01
+Poor_Metabolizer,*6/*31,p.K273fs(delA),p.I327T,p.K273fs,p.I327T,20.0,0.4,0.01,Estimated,24.2,0.538,0.01,Validated,24.2,0.538,0.01
+Poor_Metabolizer,*6/*33,p.K273fs(delA),p.R132Q,p.K273fs,p.R132Q,20.0,0.4,0.01,Estimated,24.5,0.582,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*6/*35,p.K273fs(delA),"p.R125H; p.R125L , p.R144C",p.K273fs,p.R125H,20.0,0.4,0.01,Estimated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*6/*37,p.K273fs(delA),p.D49G,p.K273fs,p.D49G,20.0,0.4,0.01,Estimated,23.2,0.478,0.01,Validated,23.2,0.478,0.01
+Poor_Metabolizer,*6/*38,p.K273fs(delA),p.G96A,p.K273fs,p.G96A,20.0,0.4,0.01,Estimated,22.5,0.425,0.01,Validated,22.5,0.425,0.01
+Poor_Metabolizer,*6/*39,p.K273fs(delA),p.G98V,p.K273fs,p.G98V,20.0,0.4,0.01,Estimated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*6/*42,p.K273fs(delA),p.R124Q,p.K273fs,p.R124Q,20.0,0.4,0.01,Estimated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*6/*43,p.K273fs(delA),p.R124W,p.K273fs,p.R124W,20.0,0.4,0.01,Estimated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*6/*44,p.K273fs(delA),p.T130R; p.T130M,p.K273fs,p.T130R,20.0,0.4,0.01,Estimated,20.0,0.4,0.01,Estimated,20.0,0.4,0.01
+Poor_Metabolizer,*6/*45,p.K273fs(delA),p.R132W,p.K273fs,p.R132W,20.0,0.4,0.01,Estimated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*6/*46,p.K273fs(delA),p.A149T,p.K273fs,p.A149T,20.0,0.4,0.01,Estimated,20.8,0.372,0.01,Validated,20.8,0.4,0.01
+Poor_Metabolizer,*6/*50,p.K273fs(delA),p.P227S,p.K273fs,p.P227S,20.0,0.4,0.01,Estimated,22.8,0.465,0.01,Validated,22.8,0.465,0.01
+Poor_Metabolizer,*6/*52,p.K273fs(delA),p.T299R,p.K273fs,p.T299R,20.0,0.4,0.01,Estimated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*6/*55,p.K273fs(delA),p.L361I,p.K273fs,p.L361I,20.0,0.4,0.01,Estimated,16.8,0.245,0.01,Validated,20.0,0.4,0.01
+Poor_Metabolizer,*6/*61,p.K273fs(delA),"p.R144C , p.N457S",p.K273fs,p.R144C,20.0,0.4,0.01,Estimated,26.5,0.651,0.01,Validated,26.5,0.651,0.01
+Poor_Metabolizer,*8/*13,p.R150H; p.R150L,p.L90P,p.R150H,p.L90P,22.4,0.418,0.01,Validated,28.1,0.823,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*8/*15,p.R150H; p.R150L,p.S162X,p.R150H,p.S162X,22.4,0.418,0.01,Validated,35.0,0.95,0.05,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*8/*24,p.R150H; p.R150L,p.E354K,p.R150H,p.E354K,22.4,0.418,0.01,Validated,24.5,0.562,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*8/*25,p.R150H; p.R150L,,p.R150H,wild-type,22.4,0.418,0.01,Validated,18.0,0.36,0.01,Wild-type default,22.4,0.418,0.01
+Poor_Metabolizer,*8/*33,p.R150H; p.R150L,p.R132Q,p.R150H,p.R132Q,22.4,0.418,0.01,Validated,24.5,0.582,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*8/*35,p.R150H; p.R150L,"p.R125H; p.R125L , p.R144C",p.R150H,p.R125H,22.4,0.418,0.01,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*8/*39,p.R150H; p.R150L,p.G98V,p.R150H,p.G98V,22.4,0.418,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*8/*42,p.R150H; p.R150L,p.R124Q,p.R150H,p.R124Q,22.4,0.418,0.01,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*8/*43,p.R150H; p.R150L,p.R124W,p.R150H,p.R124W,22.4,0.418,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*8/*45,p.R150H; p.R150L,p.R132W,p.R150H,p.R132W,22.4,0.418,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*8/*52,p.R150H; p.R150L,p.T299R,p.R150H,p.T299R,22.4,0.418,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*11/*13,p.R335W,p.L90P,p.R335W,p.L90P,27.2,0.778,0.02,Validated,28.1,0.823,0.01,Validated,28.1,0.823,0.02
+Poor_Metabolizer,*11/*15,p.R335W,p.S162X,p.R335W,p.S162X,27.2,0.778,0.02,Validated,35.0,0.95,0.05,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*11/*24,p.R335W,p.E354K,p.R335W,p.E354K,27.2,0.778,0.02,Validated,24.5,0.562,0.01,Validated,27.2,0.778,0.02
+Poor_Metabolizer,*11/*25,p.R335W,,p.R335W,wild-type,27.2,0.778,0.02,Validated,18.0,0.36,0.01,Wild-type default,27.2,0.778,0.02
+Poor_Metabolizer,*11/*33,p.R335W,p.R132Q,p.R335W,p.R132Q,27.2,0.778,0.02,Validated,24.5,0.582,0.01,Validated,27.2,0.778,0.02
+Poor_Metabolizer,*11/*35,p.R335W,"p.R125H; p.R125L , p.R144C",p.R335W,p.R125H,27.2,0.778,0.02,Validated,25.8,0.71,0.02,Validated,27.2,0.778,0.02
+Poor_Metabolizer,*11/*39,p.R335W,p.G98V,p.R335W,p.G98V,27.2,0.778,0.02,Validated,26.8,0.672,0.01,Validated,27.2,0.778,0.02
+Poor_Metabolizer,*11/*42,p.R335W,p.R124Q,p.R335W,p.R124Q,27.2,0.778,0.02,Validated,25.8,0.623,0.01,Validated,27.2,0.778,0.02
+Poor_Metabolizer,*11/*43,p.R335W,p.R124W,p.R335W,p.R124W,27.2,0.778,0.02,Validated,27.1,0.698,0.01,Validated,27.2,0.778,0.02
+Poor_Metabolizer,*11/*45,p.R335W,p.R132W,p.R335W,p.R132W,27.2,0.778,0.02,Validated,27.3,0.715,0.01,Validated,27.3,0.778,0.02
+Poor_Metabolizer,*11/*52,p.R335W,p.T299R,p.R335W,p.T299R,27.2,0.778,0.02,Validated,24.5,0.552,0.01,Validated,27.2,0.778,0.02
+Poor_Metabolizer,*12/*13,p.P489S,p.L90P,p.P489S,p.L90P,21.5,0.382,0.01,Validated,28.1,0.823,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*12/*15,p.P489S,p.S162X,p.P489S,p.S162X,21.5,0.382,0.01,Validated,35.0,0.95,0.05,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*12/*24,p.P489S,p.E354K,p.P489S,p.E354K,21.5,0.382,0.01,Validated,24.5,0.562,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*12/*25,p.P489S,,p.P489S,wild-type,21.5,0.382,0.01,Validated,18.0,0.36,0.01,Wild-type default,21.5,0.382,0.01
+Poor_Metabolizer,*12/*33,p.P489S,p.R132Q,p.P489S,p.R132Q,21.5,0.382,0.01,Validated,24.5,0.582,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*12/*35,p.P489S,"p.R125H; p.R125L , p.R144C",p.P489S,p.R125H,21.5,0.382,0.01,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*12/*39,p.P489S,p.G98V,p.P489S,p.G98V,21.5,0.382,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*12/*42,p.P489S,p.R124Q,p.P489S,p.R124Q,21.5,0.382,0.01,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*12/*43,p.P489S,p.R124W,p.P489S,p.R124W,21.5,0.382,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*12/*45,p.P489S,p.R132W,p.P489S,p.R132W,21.5,0.382,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*12/*52,p.P489S,p.T299R,p.P489S,p.T299R,21.5,0.382,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*13/*13,p.L90P,p.L90P,p.L90P,p.L90P,28.1,0.823,0.01,Validated,28.1,0.823,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*14,p.L90P,p.R125H; p.R125L,p.L90P,p.R125H,28.1,0.823,0.01,Validated,25.8,0.71,0.02,Validated,28.1,0.823,0.02
+Poor_Metabolizer,*13/*15,p.L90P,p.S162X,p.L90P,p.S162X,28.1,0.823,0.01,Validated,35.0,0.95,0.05,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*13/*16,p.L90P,p.T299A,p.L90P,p.T299A,28.1,0.823,0.01,Validated,23.0,0.478,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*23,p.L90P,p.V76M,p.L90P,p.V76M,28.1,0.823,0.01,Validated,22.8,0.438,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*24,p.L90P,p.E354K,p.L90P,p.E354K,28.1,0.823,0.01,Validated,24.5,0.562,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*25,p.L90P,,p.L90P,wild-type,28.1,0.823,0.01,Validated,18.0,0.36,0.01,Wild-type default,28.1,0.823,0.01
+Poor_Metabolizer,*13/*26,p.L90P,p.T130R; p.T130M,p.L90P,p.T130R,28.1,0.823,0.01,Validated,20.0,0.4,0.01,Estimated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*28,p.L90P,p.Q214L,p.L90P,p.Q214L,28.1,0.823,0.01,Validated,23.5,0.492,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*29,p.L90P,p.P279T,p.L90P,p.P279T,28.1,0.823,0.01,Validated,23.2,0.492,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*30,p.L90P,p.A477T,p.L90P,p.A477T,28.1,0.823,0.01,Validated,21.8,0.412,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*31,p.L90P,p.I327T,p.L90P,p.I327T,28.1,0.823,0.01,Validated,24.2,0.538,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*33,p.L90P,p.R132Q,p.L90P,p.R132Q,28.1,0.823,0.01,Validated,24.5,0.582,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*35,p.L90P,"p.R125H; p.R125L , p.R144C",p.L90P,p.R125H,28.1,0.823,0.01,Validated,25.8,0.71,0.02,Validated,28.1,0.823,0.02
+Poor_Metabolizer,*13/*37,p.L90P,p.D49G,p.L90P,p.D49G,28.1,0.823,0.01,Validated,23.2,0.478,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*38,p.L90P,p.G96A,p.L90P,p.G96A,28.1,0.823,0.01,Validated,22.5,0.425,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*39,p.L90P,p.G98V,p.L90P,p.G98V,28.1,0.823,0.01,Validated,26.8,0.672,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*42,p.L90P,p.R124Q,p.L90P,p.R124Q,28.1,0.823,0.01,Validated,25.8,0.623,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*43,p.L90P,p.R124W,p.L90P,p.R124W,28.1,0.823,0.01,Validated,27.1,0.698,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*44,p.L90P,p.T130R; p.T130M,p.L90P,p.T130R,28.1,0.823,0.01,Validated,20.0,0.4,0.01,Estimated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*45,p.L90P,p.R132W,p.L90P,p.R132W,28.1,0.823,0.01,Validated,27.3,0.715,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*46,p.L90P,p.A149T,p.L90P,p.A149T,28.1,0.823,0.01,Validated,20.8,0.372,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*50,p.L90P,p.P227S,p.L90P,p.P227S,28.1,0.823,0.01,Validated,22.8,0.465,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*52,p.L90P,p.T299R,p.L90P,p.T299R,28.1,0.823,0.01,Validated,24.5,0.552,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*55,p.L90P,p.L361I,p.L90P,p.L361I,28.1,0.823,0.01,Validated,16.8,0.245,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*13/*61,p.L90P,"p.R144C , p.N457S",p.L90P,p.R144C,28.1,0.823,0.01,Validated,26.5,0.651,0.01,Validated,28.1,0.823,0.01
+Poor_Metabolizer,*14/*15,p.R125H; p.R125L,p.S162X,p.R125H,p.S162X,25.8,0.71,0.02,Validated,35.0,0.95,0.05,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*14/*24,p.R125H; p.R125L,p.E354K,p.R125H,p.E354K,25.8,0.71,0.02,Validated,24.5,0.562,0.01,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*14/*25,p.R125H; p.R125L,,p.R125H,wild-type,25.8,0.71,0.02,Validated,18.0,0.36,0.01,Wild-type default,25.8,0.71,0.02
+Poor_Metabolizer,*14/*33,p.R125H; p.R125L,p.R132Q,p.R125H,p.R132Q,25.8,0.71,0.02,Validated,24.5,0.582,0.01,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*14/*35,p.R125H; p.R125L,"p.R125H; p.R125L , p.R144C",p.R125H,p.R125H,25.8,0.71,0.02,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*14/*39,p.R125H; p.R125L,p.G98V,p.R125H,p.G98V,25.8,0.71,0.02,Validated,26.8,0.672,0.01,Validated,26.8,0.71,0.02
+Poor_Metabolizer,*14/*42,p.R125H; p.R125L,p.R124Q,p.R125H,p.R124Q,25.8,0.71,0.02,Validated,25.8,0.623,0.01,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*14/*43,p.R125H; p.R125L,p.R124W,p.R125H,p.R124W,25.8,0.71,0.02,Validated,27.1,0.698,0.01,Validated,27.1,0.71,0.02
+Poor_Metabolizer,*14/*45,p.R125H; p.R125L,p.R132W,p.R125H,p.R132W,25.8,0.71,0.02,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.02
+Poor_Metabolizer,*14/*52,p.R125H; p.R125L,p.T299R,p.R125H,p.T299R,25.8,0.71,0.02,Validated,24.5,0.552,0.01,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*15/*15,p.S162X,p.S162X,p.S162X,p.S162X,35.0,0.95,0.05,Validated,35.0,0.95,0.05,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*16,p.S162X,p.T299A,p.S162X,p.T299A,35.0,0.95,0.05,Validated,23.0,0.478,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*23,p.S162X,p.V76M,p.S162X,p.V76M,35.0,0.95,0.05,Validated,22.8,0.438,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*24,p.S162X,p.E354K,p.S162X,p.E354K,35.0,0.95,0.05,Validated,24.5,0.562,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*25,p.S162X,,p.S162X,wild-type,35.0,0.95,0.05,Validated,18.0,0.36,0.01,Wild-type default,35.0,0.95,0.05
+Poor_Metabolizer,*15/*26,p.S162X,p.T130R; p.T130M,p.S162X,p.T130R,35.0,0.95,0.05,Validated,20.0,0.4,0.01,Estimated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*28,p.S162X,p.Q214L,p.S162X,p.Q214L,35.0,0.95,0.05,Validated,23.5,0.492,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*29,p.S162X,p.P279T,p.S162X,p.P279T,35.0,0.95,0.05,Validated,23.2,0.492,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*30,p.S162X,p.A477T,p.S162X,p.A477T,35.0,0.95,0.05,Validated,21.8,0.412,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*31,p.S162X,p.I327T,p.S162X,p.I327T,35.0,0.95,0.05,Validated,24.2,0.538,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*33,p.S162X,p.R132Q,p.S162X,p.R132Q,35.0,0.95,0.05,Validated,24.5,0.582,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*35,p.S162X,"p.R125H; p.R125L , p.R144C",p.S162X,p.R125H,35.0,0.95,0.05,Validated,25.8,0.71,0.02,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*37,p.S162X,p.D49G,p.S162X,p.D49G,35.0,0.95,0.05,Validated,23.2,0.478,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*38,p.S162X,p.G96A,p.S162X,p.G96A,35.0,0.95,0.05,Validated,22.5,0.425,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*39,p.S162X,p.G98V,p.S162X,p.G98V,35.0,0.95,0.05,Validated,26.8,0.672,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*42,p.S162X,p.R124Q,p.S162X,p.R124Q,35.0,0.95,0.05,Validated,25.8,0.623,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*43,p.S162X,p.R124W,p.S162X,p.R124W,35.0,0.95,0.05,Validated,27.1,0.698,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*44,p.S162X,p.T130R; p.T130M,p.S162X,p.T130R,35.0,0.95,0.05,Validated,20.0,0.4,0.01,Estimated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*45,p.S162X,p.R132W,p.S162X,p.R132W,35.0,0.95,0.05,Validated,27.3,0.715,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*46,p.S162X,p.A149T,p.S162X,p.A149T,35.0,0.95,0.05,Validated,20.8,0.372,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*50,p.S162X,p.P227S,p.S162X,p.P227S,35.0,0.95,0.05,Validated,22.8,0.465,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*52,p.S162X,p.T299R,p.S162X,p.T299R,35.0,0.95,0.05,Validated,24.5,0.552,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*55,p.S162X,p.L361I,p.S162X,p.L361I,35.0,0.95,0.05,Validated,16.8,0.245,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*15/*61,p.S162X,"p.R144C , p.N457S",p.S162X,p.R144C,35.0,0.95,0.05,Validated,26.5,0.651,0.01,Validated,35.0,0.95,0.05
+Poor_Metabolizer,*16/*24,p.T299A,p.E354K,p.T299A,p.E354K,23.0,0.478,0.01,Validated,24.5,0.562,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*16/*25,p.T299A,,p.T299A,wild-type,23.0,0.478,0.01,Validated,18.0,0.36,0.01,Wild-type default,23.0,0.478,0.01
+Poor_Metabolizer,*16/*33,p.T299A,p.R132Q,p.T299A,p.R132Q,23.0,0.478,0.01,Validated,24.5,0.582,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*16/*35,p.T299A,"p.R125H; p.R125L , p.R144C",p.T299A,p.R125H,23.0,0.478,0.01,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*16/*39,p.T299A,p.G98V,p.T299A,p.G98V,23.0,0.478,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*16/*42,p.T299A,p.R124Q,p.T299A,p.R124Q,23.0,0.478,0.01,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*16/*43,p.T299A,p.R124W,p.T299A,p.R124W,23.0,0.478,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*16/*45,p.T299A,p.R132W,p.T299A,p.R132W,23.0,0.478,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*16/*52,p.T299A,p.T299R,p.T299A,p.T299R,23.0,0.478,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*23/*24,p.V76M,p.E354K,p.V76M,p.E354K,22.8,0.438,0.01,Validated,24.5,0.562,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*23/*25,p.V76M,,p.V76M,wild-type,22.8,0.438,0.01,Validated,18.0,0.36,0.01,Wild-type default,22.8,0.438,0.01
+Poor_Metabolizer,*23/*33,p.V76M,p.R132Q,p.V76M,p.R132Q,22.8,0.438,0.01,Validated,24.5,0.582,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*23/*35,p.V76M,"p.R125H; p.R125L , p.R144C",p.V76M,p.R125H,22.8,0.438,0.01,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*23/*39,p.V76M,p.G98V,p.V76M,p.G98V,22.8,0.438,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*23/*42,p.V76M,p.R124Q,p.V76M,p.R124Q,22.8,0.438,0.01,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*23/*43,p.V76M,p.R124W,p.V76M,p.R124W,22.8,0.438,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*23/*45,p.V76M,p.R132W,p.V76M,p.R132W,22.8,0.438,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*23/*52,p.V76M,p.T299R,p.V76M,p.T299R,22.8,0.438,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*24/*24,p.E354K,p.E354K,p.E354K,p.E354K,24.5,0.562,0.01,Validated,24.5,0.562,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*24/*25,p.E354K,,p.E354K,wild-type,24.5,0.562,0.01,Validated,18.0,0.36,0.01,Wild-type default,24.5,0.562,0.01
+Poor_Metabolizer,*24/*26,p.E354K,p.T130R; p.T130M,p.E354K,p.T130R,24.5,0.562,0.01,Validated,20.0,0.4,0.01,Estimated,24.5,0.562,0.01
+Poor_Metabolizer,*24/*28,p.E354K,p.Q214L,p.E354K,p.Q214L,24.5,0.562,0.01,Validated,23.5,0.492,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*24/*29,p.E354K,p.P279T,p.E354K,p.P279T,24.5,0.562,0.01,Validated,23.2,0.492,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*24/*30,p.E354K,p.A477T,p.E354K,p.A477T,24.5,0.562,0.01,Validated,21.8,0.412,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*24/*31,p.E354K,p.I327T,p.E354K,p.I327T,24.5,0.562,0.01,Validated,24.2,0.538,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*24/*33,p.E354K,p.R132Q,p.E354K,p.R132Q,24.5,0.562,0.01,Validated,24.5,0.582,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*24/*35,p.E354K,"p.R125H; p.R125L , p.R144C",p.E354K,p.R125H,24.5,0.562,0.01,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*24/*37,p.E354K,p.D49G,p.E354K,p.D49G,24.5,0.562,0.01,Validated,23.2,0.478,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*24/*38,p.E354K,p.G96A,p.E354K,p.G96A,24.5,0.562,0.01,Validated,22.5,0.425,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*24/*39,p.E354K,p.G98V,p.E354K,p.G98V,24.5,0.562,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*24/*42,p.E354K,p.R124Q,p.E354K,p.R124Q,24.5,0.562,0.01,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*24/*43,p.E354K,p.R124W,p.E354K,p.R124W,24.5,0.562,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*24/*44,p.E354K,p.T130R; p.T130M,p.E354K,p.T130R,24.5,0.562,0.01,Validated,20.0,0.4,0.01,Estimated,24.5,0.562,0.01
+Poor_Metabolizer,*24/*45,p.E354K,p.R132W,p.E354K,p.R132W,24.5,0.562,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*24/*46,p.E354K,p.A149T,p.E354K,p.A149T,24.5,0.562,0.01,Validated,20.8,0.372,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*24/*50,p.E354K,p.P227S,p.E354K,p.P227S,24.5,0.562,0.01,Validated,22.8,0.465,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*24/*52,p.E354K,p.T299R,p.E354K,p.T299R,24.5,0.562,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*24/*55,p.E354K,p.L361I,p.E354K,p.L361I,24.5,0.562,0.01,Validated,16.8,0.245,0.01,Validated,24.5,0.562,0.01
+Poor_Metabolizer,*24/*61,p.E354K,"p.R144C , p.N457S",p.E354K,p.R144C,24.5,0.562,0.01,Validated,26.5,0.651,0.01,Validated,26.5,0.651,0.01
+Poor_Metabolizer,*25/*25,,,wild-type,wild-type,18.0,0.36,0.01,Wild-type default,18.0,0.36,0.01,Wild-type default,18.0,0.36,0.01
+Poor_Metabolizer,*25/*26,,p.T130R; p.T130M,wild-type,p.T130R,18.0,0.36,0.01,Wild-type default,20.0,0.4,0.01,Estimated,20.0,0.4,0.01
+Poor_Metabolizer,*25/*28,,p.Q214L,wild-type,p.Q214L,18.0,0.36,0.01,Wild-type default,23.5,0.492,0.01,Validated,23.5,0.492,0.01
+Poor_Metabolizer,*25/*29,,p.P279T,wild-type,p.P279T,18.0,0.36,0.01,Wild-type default,23.2,0.492,0.01,Validated,23.2,0.492,0.01
+Poor_Metabolizer,*25/*30,,p.A477T,wild-type,p.A477T,18.0,0.36,0.01,Wild-type default,21.8,0.412,0.01,Validated,21.8,0.412,0.01
+Poor_Metabolizer,*25/*31,,p.I327T,wild-type,p.I327T,18.0,0.36,0.01,Wild-type default,24.2,0.538,0.01,Validated,24.2,0.538,0.01
+Poor_Metabolizer,*25/*33,,p.R132Q,wild-type,p.R132Q,18.0,0.36,0.01,Wild-type default,24.5,0.582,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*25/*35,,"p.R125H; p.R125L , p.R144C",wild-type,p.R125H,18.0,0.36,0.01,Wild-type default,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*25/*37,,p.D49G,wild-type,p.D49G,18.0,0.36,0.01,Wild-type default,23.2,0.478,0.01,Validated,23.2,0.478,0.01
+Poor_Metabolizer,*25/*38,,p.G96A,wild-type,p.G96A,18.0,0.36,0.01,Wild-type default,22.5,0.425,0.01,Validated,22.5,0.425,0.01
+Poor_Metabolizer,*25/*39,,p.G98V,wild-type,p.G98V,18.0,0.36,0.01,Wild-type default,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*25/*42,,p.R124Q,wild-type,p.R124Q,18.0,0.36,0.01,Wild-type default,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*25/*43,,p.R124W,wild-type,p.R124W,18.0,0.36,0.01,Wild-type default,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*25/*44,,p.T130R; p.T130M,wild-type,p.T130R,18.0,0.36,0.01,Wild-type default,20.0,0.4,0.01,Estimated,20.0,0.4,0.01
+Poor_Metabolizer,*25/*45,,p.R132W,wild-type,p.R132W,18.0,0.36,0.01,Wild-type default,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*25/*46,,p.A149T,wild-type,p.A149T,18.0,0.36,0.01,Wild-type default,20.8,0.372,0.01,Validated,20.8,0.372,0.01
+Poor_Metabolizer,*25/*50,,p.P227S,wild-type,p.P227S,18.0,0.36,0.01,Wild-type default,22.8,0.465,0.01,Validated,22.8,0.465,0.01
+Poor_Metabolizer,*25/*52,,p.T299R,wild-type,p.T299R,18.0,0.36,0.01,Wild-type default,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*25/*55,,p.L361I,wild-type,p.L361I,18.0,0.36,0.01,Wild-type default,16.8,0.245,0.01,Validated,18.0,0.36,0.01
+Poor_Metabolizer,*25/*61,,"p.R144C , p.N457S",wild-type,p.R144C,18.0,0.36,0.01,Wild-type default,26.5,0.651,0.01,Validated,26.5,0.651,0.01
+Poor_Metabolizer,*26/*33,p.T130R; p.T130M,p.R132Q,p.T130R,p.R132Q,20.0,0.4,0.01,Estimated,24.5,0.582,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*26/*35,p.T130R; p.T130M,"p.R125H; p.R125L , p.R144C",p.T130R,p.R125H,20.0,0.4,0.01,Estimated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*26/*39,p.T130R; p.T130M,p.G98V,p.T130R,p.G98V,20.0,0.4,0.01,Estimated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*26/*42,p.T130R; p.T130M,p.R124Q,p.T130R,p.R124Q,20.0,0.4,0.01,Estimated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*26/*43,p.T130R; p.T130M,p.R124W,p.T130R,p.R124W,20.0,0.4,0.01,Estimated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*26/*45,p.T130R; p.T130M,p.R132W,p.T130R,p.R132W,20.0,0.4,0.01,Estimated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*26/*52,p.T130R; p.T130M,p.T299R,p.T130R,p.T299R,20.0,0.4,0.01,Estimated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*28/*33,p.Q214L,p.R132Q,p.Q214L,p.R132Q,23.5,0.492,0.01,Validated,24.5,0.582,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*28/*35,p.Q214L,"p.R125H; p.R125L , p.R144C",p.Q214L,p.R125H,23.5,0.492,0.01,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*28/*39,p.Q214L,p.G98V,p.Q214L,p.G98V,23.5,0.492,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*28/*42,p.Q214L,p.R124Q,p.Q214L,p.R124Q,23.5,0.492,0.01,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*28/*43,p.Q214L,p.R124W,p.Q214L,p.R124W,23.5,0.492,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*28/*45,p.Q214L,p.R132W,p.Q214L,p.R132W,23.5,0.492,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*28/*52,p.Q214L,p.T299R,p.Q214L,p.T299R,23.5,0.492,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*29/*33,p.P279T,p.R132Q,p.P279T,p.R132Q,23.2,0.492,0.01,Validated,24.5,0.582,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*29/*35,p.P279T,"p.R125H; p.R125L , p.R144C",p.P279T,p.R125H,23.2,0.492,0.01,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*29/*39,p.P279T,p.G98V,p.P279T,p.G98V,23.2,0.492,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*29/*42,p.P279T,p.R124Q,p.P279T,p.R124Q,23.2,0.492,0.01,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*29/*43,p.P279T,p.R124W,p.P279T,p.R124W,23.2,0.492,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*29/*45,p.P279T,p.R132W,p.P279T,p.R132W,23.2,0.492,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*29/*52,p.P279T,p.T299R,p.P279T,p.T299R,23.2,0.492,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*30/*33,p.A477T,p.R132Q,p.A477T,p.R132Q,21.8,0.412,0.01,Validated,24.5,0.582,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*30/*35,p.A477T,"p.R125H; p.R125L , p.R144C",p.A477T,p.R125H,21.8,0.412,0.01,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*30/*39,p.A477T,p.G98V,p.A477T,p.G98V,21.8,0.412,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*30/*42,p.A477T,p.R124Q,p.A477T,p.R124Q,21.8,0.412,0.01,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*30/*43,p.A477T,p.R124W,p.A477T,p.R124W,21.8,0.412,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*30/*45,p.A477T,p.R132W,p.A477T,p.R132W,21.8,0.412,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*30/*52,p.A477T,p.T299R,p.A477T,p.T299R,21.8,0.412,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*31/*33,p.I327T,p.R132Q,p.I327T,p.R132Q,24.2,0.538,0.01,Validated,24.5,0.582,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*31/*35,p.I327T,"p.R125H; p.R125L , p.R144C",p.I327T,p.R125H,24.2,0.538,0.01,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*31/*39,p.I327T,p.G98V,p.I327T,p.G98V,24.2,0.538,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*31/*42,p.I327T,p.R124Q,p.I327T,p.R124Q,24.2,0.538,0.01,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*31/*43,p.I327T,p.R124W,p.I327T,p.R124W,24.2,0.538,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*31/*45,p.I327T,p.R132W,p.I327T,p.R132W,24.2,0.538,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*31/*52,p.I327T,p.T299R,p.I327T,p.T299R,24.2,0.538,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*33/*33,p.R132Q,p.R132Q,p.R132Q,p.R132Q,24.5,0.582,0.01,Validated,24.5,0.582,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*33/*35,p.R132Q,"p.R125H; p.R125L , p.R144C",p.R132Q,p.R125H,24.5,0.582,0.01,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*33/*37,p.R132Q,p.D49G,p.R132Q,p.D49G,24.5,0.582,0.01,Validated,23.2,0.478,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*33/*38,p.R132Q,p.G96A,p.R132Q,p.G96A,24.5,0.582,0.01,Validated,22.5,0.425,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*33/*39,p.R132Q,p.G98V,p.R132Q,p.G98V,24.5,0.582,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*33/*42,p.R132Q,p.R124Q,p.R132Q,p.R124Q,24.5,0.582,0.01,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*33/*43,p.R132Q,p.R124W,p.R132Q,p.R124W,24.5,0.582,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*33/*44,p.R132Q,p.T130R; p.T130M,p.R132Q,p.T130R,24.5,0.582,0.01,Validated,20.0,0.4,0.01,Estimated,24.5,0.582,0.01
+Poor_Metabolizer,*33/*45,p.R132Q,p.R132W,p.R132Q,p.R132W,24.5,0.582,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*33/*46,p.R132Q,p.A149T,p.R132Q,p.A149T,24.5,0.582,0.01,Validated,20.8,0.372,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*33/*50,p.R132Q,p.P227S,p.R132Q,p.P227S,24.5,0.582,0.01,Validated,22.8,0.465,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*33/*52,p.R132Q,p.T299R,p.R132Q,p.T299R,24.5,0.582,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*33/*55,p.R132Q,p.L361I,p.R132Q,p.L361I,24.5,0.582,0.01,Validated,16.8,0.245,0.01,Validated,24.5,0.582,0.01
+Poor_Metabolizer,*33/*61,p.R132Q,"p.R144C , p.N457S",p.R132Q,p.R144C,24.5,0.582,0.01,Validated,26.5,0.651,0.01,Validated,26.5,0.651,0.01
+Poor_Metabolizer,*35/*35,"p.R125H; p.R125L , p.R144C","p.R125H; p.R125L , p.R144C",p.R125H,p.R125H,25.8,0.71,0.02,Validated,25.8,0.71,0.02,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*35/*37,"p.R125H; p.R125L , p.R144C",p.D49G,p.R125H,p.D49G,25.8,0.71,0.02,Validated,23.2,0.478,0.01,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*35/*38,"p.R125H; p.R125L , p.R144C",p.G96A,p.R125H,p.G96A,25.8,0.71,0.02,Validated,22.5,0.425,0.01,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*35/*39,"p.R125H; p.R125L , p.R144C",p.G98V,p.R125H,p.G98V,25.8,0.71,0.02,Validated,26.8,0.672,0.01,Validated,26.8,0.71,0.02
+Poor_Metabolizer,*35/*42,"p.R125H; p.R125L , p.R144C",p.R124Q,p.R125H,p.R124Q,25.8,0.71,0.02,Validated,25.8,0.623,0.01,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*35/*43,"p.R125H; p.R125L , p.R144C",p.R124W,p.R125H,p.R124W,25.8,0.71,0.02,Validated,27.1,0.698,0.01,Validated,27.1,0.71,0.02
+Poor_Metabolizer,*35/*44,"p.R125H; p.R125L , p.R144C",p.T130R; p.T130M,p.R125H,p.T130R,25.8,0.71,0.02,Validated,20.0,0.4,0.01,Estimated,25.8,0.71,0.02
+Poor_Metabolizer,*35/*45,"p.R125H; p.R125L , p.R144C",p.R132W,p.R125H,p.R132W,25.8,0.71,0.02,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.02
+Poor_Metabolizer,*35/*46,"p.R125H; p.R125L , p.R144C",p.A149T,p.R125H,p.A149T,25.8,0.71,0.02,Validated,20.8,0.372,0.01,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*35/*50,"p.R125H; p.R125L , p.R144C",p.P227S,p.R125H,p.P227S,25.8,0.71,0.02,Validated,22.8,0.465,0.01,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*35/*52,"p.R125H; p.R125L , p.R144C",p.T299R,p.R125H,p.T299R,25.8,0.71,0.02,Validated,24.5,0.552,0.01,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*35/*55,"p.R125H; p.R125L , p.R144C",p.L361I,p.R125H,p.L361I,25.8,0.71,0.02,Validated,16.8,0.245,0.01,Validated,25.8,0.71,0.02
+Poor_Metabolizer,*35/*61,"p.R125H; p.R125L , p.R144C","p.R144C , p.N457S",p.R125H,p.R144C,25.8,0.71,0.02,Validated,26.5,0.651,0.01,Validated,26.5,0.71,0.02
+Poor_Metabolizer,*37/*39,p.D49G,p.G98V,p.D49G,p.G98V,23.2,0.478,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*37/*42,p.D49G,p.R124Q,p.D49G,p.R124Q,23.2,0.478,0.01,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*37/*43,p.D49G,p.R124W,p.D49G,p.R124W,23.2,0.478,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*37/*45,p.D49G,p.R132W,p.D49G,p.R132W,23.2,0.478,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*37/*52,p.D49G,p.T299R,p.D49G,p.T299R,23.2,0.478,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*38/*39,p.G96A,p.G98V,p.G96A,p.G98V,22.5,0.425,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*38/*42,p.G96A,p.R124Q,p.G96A,p.R124Q,22.5,0.425,0.01,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*38/*43,p.G96A,p.R124W,p.G96A,p.R124W,22.5,0.425,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*38/*45,p.G96A,p.R132W,p.G96A,p.R132W,22.5,0.425,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*38/*52,p.G96A,p.T299R,p.G96A,p.T299R,22.5,0.425,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*39/*39,p.G98V,p.G98V,p.G98V,p.G98V,26.8,0.672,0.01,Validated,26.8,0.672,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*39/*42,p.G98V,p.R124Q,p.G98V,p.R124Q,26.8,0.672,0.01,Validated,25.8,0.623,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*39/*43,p.G98V,p.R124W,p.G98V,p.R124W,26.8,0.672,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*39/*44,p.G98V,p.T130R; p.T130M,p.G98V,p.T130R,26.8,0.672,0.01,Validated,20.0,0.4,0.01,Estimated,26.8,0.672,0.01
+Poor_Metabolizer,*39/*45,p.G98V,p.R132W,p.G98V,p.R132W,26.8,0.672,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*39/*46,p.G98V,p.A149T,p.G98V,p.A149T,26.8,0.672,0.01,Validated,20.8,0.372,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*39/*50,p.G98V,p.P227S,p.G98V,p.P227S,26.8,0.672,0.01,Validated,22.8,0.465,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*39/*52,p.G98V,p.T299R,p.G98V,p.T299R,26.8,0.672,0.01,Validated,24.5,0.552,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*39/*55,p.G98V,p.L361I,p.G98V,p.L361I,26.8,0.672,0.01,Validated,16.8,0.245,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*39/*61,p.G98V,"p.R144C , p.N457S",p.G98V,p.R144C,26.8,0.672,0.01,Validated,26.5,0.651,0.01,Validated,26.8,0.672,0.01
+Poor_Metabolizer,*42/*42,p.R124Q,p.R124Q,p.R124Q,p.R124Q,25.8,0.623,0.01,Validated,25.8,0.623,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*42/*43,p.R124Q,p.R124W,p.R124Q,p.R124W,25.8,0.623,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*42/*44,p.R124Q,p.T130R; p.T130M,p.R124Q,p.T130R,25.8,0.623,0.01,Validated,20.0,0.4,0.01,Estimated,25.8,0.623,0.01
+Poor_Metabolizer,*42/*45,p.R124Q,p.R132W,p.R124Q,p.R132W,25.8,0.623,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*42/*46,p.R124Q,p.A149T,p.R124Q,p.A149T,25.8,0.623,0.01,Validated,20.8,0.372,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*42/*50,p.R124Q,p.P227S,p.R124Q,p.P227S,25.8,0.623,0.01,Validated,22.8,0.465,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*42/*52,p.R124Q,p.T299R,p.R124Q,p.T299R,25.8,0.623,0.01,Validated,24.5,0.552,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*42/*55,p.R124Q,p.L361I,p.R124Q,p.L361I,25.8,0.623,0.01,Validated,16.8,0.245,0.01,Validated,25.8,0.623,0.01
+Poor_Metabolizer,*42/*61,p.R124Q,"p.R144C , p.N457S",p.R124Q,p.R144C,25.8,0.623,0.01,Validated,26.5,0.651,0.01,Validated,26.5,0.651,0.01
+Poor_Metabolizer,*43/*43,p.R124W,p.R124W,p.R124W,p.R124W,27.1,0.698,0.01,Validated,27.1,0.698,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*43/*44,p.R124W,p.T130R; p.T130M,p.R124W,p.T130R,27.1,0.698,0.01,Validated,20.0,0.4,0.01,Estimated,27.1,0.698,0.01
+Poor_Metabolizer,*43/*45,p.R124W,p.R132W,p.R124W,p.R132W,27.1,0.698,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*43/*46,p.R124W,p.A149T,p.R124W,p.A149T,27.1,0.698,0.01,Validated,20.8,0.372,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*43/*50,p.R124W,p.P227S,p.R124W,p.P227S,27.1,0.698,0.01,Validated,22.8,0.465,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*43/*52,p.R124W,p.T299R,p.R124W,p.T299R,27.1,0.698,0.01,Validated,24.5,0.552,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*43/*55,p.R124W,p.L361I,p.R124W,p.L361I,27.1,0.698,0.01,Validated,16.8,0.245,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*43/*61,p.R124W,"p.R144C , p.N457S",p.R124W,p.R144C,27.1,0.698,0.01,Validated,26.5,0.651,0.01,Validated,27.1,0.698,0.01
+Poor_Metabolizer,*44/*45,p.T130R; p.T130M,p.R132W,p.T130R,p.R132W,20.0,0.4,0.01,Estimated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*44/*52,p.T130R; p.T130M,p.T299R,p.T130R,p.T299R,20.0,0.4,0.01,Estimated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*45/*45,p.R132W,p.R132W,p.R132W,p.R132W,27.3,0.715,0.01,Validated,27.3,0.715,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*45/*46,p.R132W,p.A149T,p.R132W,p.A149T,27.3,0.715,0.01,Validated,20.8,0.372,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*45/*50,p.R132W,p.P227S,p.R132W,p.P227S,27.3,0.715,0.01,Validated,22.8,0.465,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*45/*52,p.R132W,p.T299R,p.R132W,p.T299R,27.3,0.715,0.01,Validated,24.5,0.552,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*45/*55,p.R132W,p.L361I,p.R132W,p.L361I,27.3,0.715,0.01,Validated,16.8,0.245,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*45/*61,p.R132W,"p.R144C , p.N457S",p.R132W,p.R144C,27.3,0.715,0.01,Validated,26.5,0.651,0.01,Validated,27.3,0.715,0.01
+Poor_Metabolizer,*46/*52,p.A149T,p.T299R,p.A149T,p.T299R,20.8,0.372,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*50/*52,p.P227S,p.T299R,p.P227S,p.T299R,22.8,0.465,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*52/*52,p.T299R,p.T299R,p.T299R,p.T299R,24.5,0.552,0.01,Validated,24.5,0.552,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*52/*55,p.T299R,p.L361I,p.T299R,p.L361I,24.5,0.552,0.01,Validated,16.8,0.245,0.01,Validated,24.5,0.552,0.01
+Poor_Metabolizer,*52/*61,p.T299R,"p.R144C , p.N457S",p.T299R,p.R144C,24.5,0.552,0.01,Validated,26.5,0.651,0.01,Validated,26.5,0.651,0.01

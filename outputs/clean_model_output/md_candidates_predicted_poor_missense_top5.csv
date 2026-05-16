@@ -1,0 +1,6 @@
+Diplotype,Effect1,Effect2,Position1,Position2,Region1,Region2,Prob_Poor,Confidence,is_missense1,is_missense2,Source
+*34/*43,p.R132Q,p.R124W,132,124,Non-SRS,SRS1,0.9932762018240276,High,True,True,Predicted
+*34/*39,p.R132Q,p.G98V,132,98,Non-SRS,SRS1,0.9913575833662054,High,True,True,Predicted
+*24/*34,p.E354K,p.R132Q,354,132,Non-SRS,Non-SRS,0.9815673490613972,High,True,True,Predicted
+*40/*45,p.F110S,p.R132W,110,132,SRS1,Non-SRS,0.9814446247908568,High,True,True,Predicted
+*15/*34,p.S162X,p.R132Q,162,132,Non-SRS,Non-SRS,0.9786748380626298,High,False,True,Predicted

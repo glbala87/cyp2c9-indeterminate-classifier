@@ -1,0 +1,365 @@
+﻿CYP2C9 Diplotype,Coded Diplotype/Phenotype Summary,criteria,Reason,Effect on protein by allele 1,Effect on protein by allele 2
+*2/*3,CYP2C9 Poor Metabolizer,included,missense,p.R144C,p.I359L
+*2/*6,CYP2C9 Poor Metabolizer,included,missense,p.R144C,p.K273fs(delA)
+*2/*13,CYP2C9 Poor Metabolizer,included,missense,p.R144C,p.L90P
+*2/*15,CYP2C9 Poor Metabolizer,included,missense,p.R144C,p.S162X
+*2/*24,CYP2C9 Poor Metabolizer,included,missense,p.R144C,p.E354K
+*2/*25,CYP2C9 Poor Metabolizer,included,missense,p.R144C,
+*2/*33,CYP2C9 Poor Metabolizer,included,missense,p.R144C,p.R132Q
+*2/*35,CYP2C9 Poor Metabolizer,included,missense,p.R144C,"p.R125H; p.R125L , p.R144C"
+*2/*39,CYP2C9 Poor Metabolizer,included,missense,p.R144C,p.G98V
+*2/*42,CYP2C9 Poor Metabolizer,included,missense,p.R144C,p.R124Q
+*2/*43,CYP2C9 Poor Metabolizer,included,missense,p.R144C,p.R124W
+*2/*45,CYP2C9 Poor Metabolizer,included,missense,p.R144C,p.R132W
+*2/*52,CYP2C9 Poor Metabolizer,included,missense,p.R144C,p.T299R
+*3/*3,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.I359L
+*3/*4,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.I359T
+*3/*5,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.D360E
+*3/*6,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.K273fs(delA)
+*3/*8,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.R150H; p.R150L
+*3/*11,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.R335W
+*3/*12,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.P489S
+*3/*13,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.L90P
+*3/*14,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.R125H; p.R125L
+*3/*15,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.S162X
+*3/*16,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.T299A
+*3/*23,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.V76M
+*3/*24,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.E354K
+*3/*25,CYP2C9 Poor Metabolizer,included,missense,p.I359L,
+*3/*26,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.T130R; p.T130M
+*3/*28,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.Q214L
+*3/*29,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.P279T
+*3/*30,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.A477T
+*3/*31,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.I327T
+*3/*33,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.R132Q
+*3/*35,CYP2C9 Poor Metabolizer,included,missense,p.I359L,"p.R125H; p.R125L , p.R144C"
+*3/*37,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.D49G
+*3/*38,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.G96A
+*3/*39,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.G98V
+*3/*42,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.R124Q
+*3/*43,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.R124W
+*3/*44,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.T130R; p.T130M
+*3/*45,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.R132W
+*3/*46,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.A149T
+*3/*50,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.P227S
+*3/*52,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.T299R
+*3/*55,CYP2C9 Poor Metabolizer,included,missense,p.I359L,p.L361I
+*3/*61,CYP2C9 Poor Metabolizer,included,missense,p.I359L,"p.R144C , p.N457S"
+*4/*6,CYP2C9 Poor Metabolizer,included,missense,p.I359T,p.K273fs(delA)
+*4/*13,CYP2C9 Poor Metabolizer,included,missense,p.I359T,p.L90P
+*4/*15,CYP2C9 Poor Metabolizer,included,missense,p.I359T,p.S162X
+*4/*24,CYP2C9 Poor Metabolizer,included,missense,p.I359T,p.E354K
+*4/*25,CYP2C9 Poor Metabolizer,included,missense,p.I359T,
+*4/*33,CYP2C9 Poor Metabolizer,included,missense,p.I359T,p.R132Q
+*4/*35,CYP2C9 Poor Metabolizer,included,missense,p.I359T,"p.R125H; p.R125L , p.R144C"
+*4/*39,CYP2C9 Poor Metabolizer,included,missense,p.I359T,p.G98V
+*4/*42,CYP2C9 Poor Metabolizer,included,missense,p.I359T,p.R124Q
+*4/*43,CYP2C9 Poor Metabolizer,included,missense,p.I359T,p.R124W
+*4/*45,CYP2C9 Poor Metabolizer,included,missense,p.I359T,p.R132W
+*4/*52,CYP2C9 Poor Metabolizer,included,missense,p.I359T,p.T299R
+*5/*6,CYP2C9 Poor Metabolizer,included,missense,p.D360E,p.K273fs(delA)
+*5/*13,CYP2C9 Poor Metabolizer,included,missense,p.D360E,p.L90P
+*5/*15,CYP2C9 Poor Metabolizer,included,missense,p.D360E,p.S162X
+*5/*24,CYP2C9 Poor Metabolizer,included,missense,p.D360E,p.E354K
+*5/*25,CYP2C9 Poor Metabolizer,included,missense,p.D360E,
+*5/*33,CYP2C9 Poor Metabolizer,included,missense,p.D360E,p.R132Q
+*5/*35,CYP2C9 Poor Metabolizer,included,missense,p.D360E,"p.R125H; p.R125L , p.R144C"
+*5/*39,CYP2C9 Poor Metabolizer,included,missense,p.D360E,p.G98V
+*5/*42,CYP2C9 Poor Metabolizer,included,missense,p.D360E,p.R124Q
+*5/*43,CYP2C9 Poor Metabolizer,included,missense,p.D360E,p.R124W
+*5/*45,CYP2C9 Poor Metabolizer,included,missense,p.D360E,p.R132W
+*5/*52,CYP2C9 Poor Metabolizer,included,missense,p.D360E,p.T299R
+*6/*6,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.K273fs(delA)
+*6/*8,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.R150H; p.R150L
+*6/*11,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.R335W
+*6/*12,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.P489S
+*6/*13,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.L90P
+*6/*14,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.R125H; p.R125L
+*6/*15,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.S162X
+*6/*16,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.T299A
+*6/*23,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.V76M
+*6/*24,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.E354K
+*6/*25,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),
+*6/*26,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.T130R; p.T130M
+*6/*28,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.Q214L
+*6/*29,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.P279T
+*6/*30,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.A477T
+*6/*31,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.I327T
+*6/*33,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.R132Q
+*6/*35,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),"p.R125H; p.R125L , p.R144C"
+*6/*37,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.D49G
+*6/*38,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.G96A
+*6/*39,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.G98V
+*6/*42,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.R124Q
+*6/*43,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.R124W
+*6/*44,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.T130R; p.T130M
+*6/*45,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.R132W
+*6/*46,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.A149T
+*6/*50,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.P227S
+*6/*52,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.T299R
+*6/*55,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),p.L361I
+*6/*61,CYP2C9 Poor Metabolizer,included,missense,p.K273fs(delA),"p.R144C , p.N457S"
+*8/*13,CYP2C9 Poor Metabolizer,included,missense,p.R150H; p.R150L,p.L90P
+*8/*15,CYP2C9 Poor Metabolizer,included,missense,p.R150H; p.R150L,p.S162X
+*8/*24,CYP2C9 Poor Metabolizer,included,missense,p.R150H; p.R150L,p.E354K
+*8/*25,CYP2C9 Poor Metabolizer,included,missense,p.R150H; p.R150L,
+*8/*33,CYP2C9 Poor Metabolizer,included,missense,p.R150H; p.R150L,p.R132Q
+*8/*35,CYP2C9 Poor Metabolizer,included,missense,p.R150H; p.R150L,"p.R125H; p.R125L , p.R144C"
+*8/*39,CYP2C9 Poor Metabolizer,included,missense,p.R150H; p.R150L,p.G98V
+*8/*42,CYP2C9 Poor Metabolizer,included,missense,p.R150H; p.R150L,p.R124Q
+*8/*43,CYP2C9 Poor Metabolizer,included,missense,p.R150H; p.R150L,p.R124W
+*8/*45,CYP2C9 Poor Metabolizer,included,missense,p.R150H; p.R150L,p.R132W
+*8/*52,CYP2C9 Poor Metabolizer,included,missense,p.R150H; p.R150L,p.T299R
+*11/*13,CYP2C9 Poor Metabolizer,included,missense,p.R335W,p.L90P
+*11/*15,CYP2C9 Poor Metabolizer,included,missense,p.R335W,p.S162X
+*11/*24,CYP2C9 Poor Metabolizer,included,missense,p.R335W,p.E354K
+*11/*25,CYP2C9 Poor Metabolizer,included,missense,p.R335W,
+*11/*33,CYP2C9 Poor Metabolizer,included,missense,p.R335W,p.R132Q
+*11/*35,CYP2C9 Poor Metabolizer,included,missense,p.R335W,"p.R125H; p.R125L , p.R144C"
+*11/*39,CYP2C9 Poor Metabolizer,included,missense,p.R335W,p.G98V
+*11/*42,CYP2C9 Poor Metabolizer,included,missense,p.R335W,p.R124Q
+*11/*43,CYP2C9 Poor Metabolizer,included,missense,p.R335W,p.R124W
+*11/*45,CYP2C9 Poor Metabolizer,included,missense,p.R335W,p.R132W
+*11/*52,CYP2C9 Poor Metabolizer,included,missense,p.R335W,p.T299R
+*12/*13,CYP2C9 Poor Metabolizer,included,missense,p.P489S,p.L90P
+*12/*15,CYP2C9 Poor Metabolizer,included,missense,p.P489S,p.S162X
+*12/*24,CYP2C9 Poor Metabolizer,included,missense,p.P489S,p.E354K
+*12/*25,CYP2C9 Poor Metabolizer,included,missense,p.P489S,
+*12/*33,CYP2C9 Poor Metabolizer,included,missense,p.P489S,p.R132Q
+*12/*35,CYP2C9 Poor Metabolizer,included,missense,p.P489S,"p.R125H; p.R125L , p.R144C"
+*12/*39,CYP2C9 Poor Metabolizer,included,missense,p.P489S,p.G98V
+*12/*42,CYP2C9 Poor Metabolizer,included,missense,p.P489S,p.R124Q
+*12/*43,CYP2C9 Poor Metabolizer,included,missense,p.P489S,p.R124W
+*12/*45,CYP2C9 Poor Metabolizer,included,missense,p.P489S,p.R132W
+*12/*52,CYP2C9 Poor Metabolizer,included,missense,p.P489S,p.T299R
+*13/*13,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.L90P
+*13/*14,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.R125H; p.R125L
+*13/*15,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.S162X
+*13/*16,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.T299A
+*13/*23,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.V76M
+*13/*24,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.E354K
+*13/*25,CYP2C9 Poor Metabolizer,included,missense,p.L90P,
+*13/*26,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.T130R; p.T130M
+*13/*28,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.Q214L
+*13/*29,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.P279T
+*13/*30,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.A477T
+*13/*31,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.I327T
+*13/*33,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.R132Q
+*13/*35,CYP2C9 Poor Metabolizer,included,missense,p.L90P,"p.R125H; p.R125L , p.R144C"
+*13/*37,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.D49G
+*13/*38,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.G96A
+*13/*39,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.G98V
+*13/*42,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.R124Q
+*13/*43,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.R124W
+*13/*44,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.T130R; p.T130M
+*13/*45,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.R132W
+*13/*46,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.A149T
+*13/*50,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.P227S
+*13/*52,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.T299R
+*13/*55,CYP2C9 Poor Metabolizer,included,missense,p.L90P,p.L361I
+*13/*61,CYP2C9 Poor Metabolizer,included,missense,p.L90P,"p.R144C , p.N457S"
+*14/*15,CYP2C9 Poor Metabolizer,included,missense,p.R125H; p.R125L,p.S162X
+*14/*24,CYP2C9 Poor Metabolizer,included,missense,p.R125H; p.R125L,p.E354K
+*14/*25,CYP2C9 Poor Metabolizer,included,missense,p.R125H; p.R125L,
+*14/*33,CYP2C9 Poor Metabolizer,included,missense,p.R125H; p.R125L,p.R132Q
+*14/*35,CYP2C9 Poor Metabolizer,included,missense,p.R125H; p.R125L,"p.R125H; p.R125L , p.R144C"
+*14/*39,CYP2C9 Poor Metabolizer,included,missense,p.R125H; p.R125L,p.G98V
+*14/*42,CYP2C9 Poor Metabolizer,included,missense,p.R125H; p.R125L,p.R124Q
+*14/*43,CYP2C9 Poor Metabolizer,included,missense,p.R125H; p.R125L,p.R124W
+*14/*45,CYP2C9 Poor Metabolizer,included,missense,p.R125H; p.R125L,p.R132W
+*14/*52,CYP2C9 Poor Metabolizer,included,missense,p.R125H; p.R125L,p.T299R
+*15/*15,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.S162X
+*15/*16,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.T299A
+*15/*23,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.V76M
+*15/*24,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.E354K
+*15/*25,CYP2C9 Poor Metabolizer,included,missense,p.S162X,
+*15/*26,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.T130R; p.T130M
+*15/*28,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.Q214L
+*15/*29,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.P279T
+*15/*30,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.A477T
+*15/*31,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.I327T
+*15/*33,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.R132Q
+*15/*35,CYP2C9 Poor Metabolizer,included,missense,p.S162X,"p.R125H; p.R125L , p.R144C"
+*15/*37,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.D49G
+*15/*38,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.G96A
+*15/*39,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.G98V
+*15/*42,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.R124Q
+*15/*43,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.R124W
+*15/*44,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.T130R; p.T130M
+*15/*45,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.R132W
+*15/*46,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.A149T
+*15/*50,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.P227S
+*15/*52,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.T299R
+*15/*55,CYP2C9 Poor Metabolizer,included,missense,p.S162X,p.L361I
+*15/*61,CYP2C9 Poor Metabolizer,included,missense,p.S162X,"p.R144C , p.N457S"
+*16/*24,CYP2C9 Poor Metabolizer,included,missense,p.T299A,p.E354K
+*16/*25,CYP2C9 Poor Metabolizer,included,missense,p.T299A,
+*16/*33,CYP2C9 Poor Metabolizer,included,missense,p.T299A,p.R132Q
+*16/*35,CYP2C9 Poor Metabolizer,included,missense,p.T299A,"p.R125H; p.R125L , p.R144C"
+*16/*39,CYP2C9 Poor Metabolizer,included,missense,p.T299A,p.G98V
+*16/*42,CYP2C9 Poor Metabolizer,included,missense,p.T299A,p.R124Q
+*16/*43,CYP2C9 Poor Metabolizer,included,missense,p.T299A,p.R124W
+*16/*45,CYP2C9 Poor Metabolizer,included,missense,p.T299A,p.R132W
+*16/*52,CYP2C9 Poor Metabolizer,included,missense,p.T299A,p.T299R
+*23/*24,CYP2C9 Poor Metabolizer,included,missense,p.V76M,p.E354K
+*23/*25,CYP2C9 Poor Metabolizer,included,missense,p.V76M,
+*23/*33,CYP2C9 Poor Metabolizer,included,missense,p.V76M,p.R132Q
+*23/*35,CYP2C9 Poor Metabolizer,included,missense,p.V76M,"p.R125H; p.R125L , p.R144C"
+*23/*39,CYP2C9 Poor Metabolizer,included,missense,p.V76M,p.G98V
+*23/*42,CYP2C9 Poor Metabolizer,included,missense,p.V76M,p.R124Q
+*23/*43,CYP2C9 Poor Metabolizer,included,missense,p.V76M,p.R124W
+*23/*45,CYP2C9 Poor Metabolizer,included,missense,p.V76M,p.R132W
+*23/*52,CYP2C9 Poor Metabolizer,included,missense,p.V76M,p.T299R
+*24/*24,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.E354K
+*24/*25,CYP2C9 Poor Metabolizer,included,missense,p.E354K,
+*24/*26,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.T130R; p.T130M
+*24/*28,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.Q214L
+*24/*29,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.P279T
+*24/*30,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.A477T
+*24/*31,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.I327T
+*24/*33,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.R132Q
+*24/*35,CYP2C9 Poor Metabolizer,included,missense,p.E354K,"p.R125H; p.R125L , p.R144C"
+*24/*37,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.D49G
+*24/*38,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.G96A
+*24/*39,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.G98V
+*24/*42,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.R124Q
+*24/*43,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.R124W
+*24/*44,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.T130R; p.T130M
+*24/*45,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.R132W
+*24/*46,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.A149T
+*24/*50,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.P227S
+*24/*52,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.T299R
+*24/*55,CYP2C9 Poor Metabolizer,included,missense,p.E354K,p.L361I
+*24/*61,CYP2C9 Poor Metabolizer,included,missense,p.E354K,"p.R144C , p.N457S"
+*25/*25,CYP2C9 Poor Metabolizer,included,missense,,
+*25/*26,CYP2C9 Poor Metabolizer,included,missense,,p.T130R; p.T130M
+*25/*28,CYP2C9 Poor Metabolizer,included,missense,,p.Q214L
+*25/*29,CYP2C9 Poor Metabolizer,included,missense,,p.P279T
+*25/*30,CYP2C9 Poor Metabolizer,included,missense,,p.A477T
+*25/*31,CYP2C9 Poor Metabolizer,included,missense,,p.I327T
+*25/*33,CYP2C9 Poor Metabolizer,included,missense,,p.R132Q
+*25/*35,CYP2C9 Poor Metabolizer,included,missense,,"p.R125H; p.R125L , p.R144C"
+*25/*37,CYP2C9 Poor Metabolizer,included,missense,,p.D49G
+*25/*38,CYP2C9 Poor Metabolizer,included,missense,,p.G96A
+*25/*39,CYP2C9 Poor Metabolizer,included,missense,,p.G98V
+*25/*42,CYP2C9 Poor Metabolizer,included,missense,,p.R124Q
+*25/*43,CYP2C9 Poor Metabolizer,included,missense,,p.R124W
+*25/*44,CYP2C9 Poor Metabolizer,included,missense,,p.T130R; p.T130M
+*25/*45,CYP2C9 Poor Metabolizer,included,missense,,p.R132W
+*25/*46,CYP2C9 Poor Metabolizer,included,missense,,p.A149T
+*25/*50,CYP2C9 Poor Metabolizer,included,missense,,p.P227S
+*25/*52,CYP2C9 Poor Metabolizer,included,missense,,p.T299R
+*25/*55,CYP2C9 Poor Metabolizer,included,missense,,p.L361I
+*25/*61,CYP2C9 Poor Metabolizer,included,missense,,"p.R144C , p.N457S"
+*26/*33,CYP2C9 Poor Metabolizer,included,missense,p.T130R; p.T130M,p.R132Q
+*26/*35,CYP2C9 Poor Metabolizer,included,missense,p.T130R; p.T130M,"p.R125H; p.R125L , p.R144C"
+*26/*39,CYP2C9 Poor Metabolizer,included,missense,p.T130R; p.T130M,p.G98V
+*26/*42,CYP2C9 Poor Metabolizer,included,missense,p.T130R; p.T130M,p.R124Q
+*26/*43,CYP2C9 Poor Metabolizer,included,missense,p.T130R; p.T130M,p.R124W
+*26/*45,CYP2C9 Poor Metabolizer,included,missense,p.T130R; p.T130M,p.R132W
+*26/*52,CYP2C9 Poor Metabolizer,included,missense,p.T130R; p.T130M,p.T299R
+*28/*33,CYP2C9 Poor Metabolizer,included,missense,p.Q214L,p.R132Q
+*28/*35,CYP2C9 Poor Metabolizer,included,missense,p.Q214L,"p.R125H; p.R125L , p.R144C"
+*28/*39,CYP2C9 Poor Metabolizer,included,missense,p.Q214L,p.G98V
+*28/*42,CYP2C9 Poor Metabolizer,included,missense,p.Q214L,p.R124Q
+*28/*43,CYP2C9 Poor Metabolizer,included,missense,p.Q214L,p.R124W
+*28/*45,CYP2C9 Poor Metabolizer,included,missense,p.Q214L,p.R132W
+*28/*52,CYP2C9 Poor Metabolizer,included,missense,p.Q214L,p.T299R
+*29/*33,CYP2C9 Poor Metabolizer,included,missense,p.P279T,p.R132Q
+*29/*35,CYP2C9 Poor Metabolizer,included,missense,p.P279T,"p.R125H; p.R125L , p.R144C"
+*29/*39,CYP2C9 Poor Metabolizer,included,missense,p.P279T,p.G98V
+*29/*42,CYP2C9 Poor Metabolizer,included,missense,p.P279T,p.R124Q
+*29/*43,CYP2C9 Poor Metabolizer,included,missense,p.P279T,p.R124W
+*29/*45,CYP2C9 Poor Metabolizer,included,missense,p.P279T,p.R132W
+*29/*52,CYP2C9 Poor Metabolizer,included,missense,p.P279T,p.T299R
+*30/*33,CYP2C9 Poor Metabolizer,included,missense,p.A477T,p.R132Q
+*30/*35,CYP2C9 Poor Metabolizer,included,missense,p.A477T,"p.R125H; p.R125L , p.R144C"
+*30/*39,CYP2C9 Poor Metabolizer,included,missense,p.A477T,p.G98V
+*30/*42,CYP2C9 Poor Metabolizer,included,missense,p.A477T,p.R124Q
+*30/*43,CYP2C9 Poor Metabolizer,included,missense,p.A477T,p.R124W
+*30/*45,CYP2C9 Poor Metabolizer,included,missense,p.A477T,p.R132W
+*30/*52,CYP2C9 Poor Metabolizer,included,missense,p.A477T,p.T299R
+*31/*33,CYP2C9 Poor Metabolizer,included,missense,p.I327T,p.R132Q
+*31/*35,CYP2C9 Poor Metabolizer,included,missense,p.I327T,"p.R125H; p.R125L , p.R144C"
+*31/*39,CYP2C9 Poor Metabolizer,included,missense,p.I327T,p.G98V
+*31/*42,CYP2C9 Poor Metabolizer,included,missense,p.I327T,p.R124Q
+*31/*43,CYP2C9 Poor Metabolizer,included,missense,p.I327T,p.R124W
+*31/*45,CYP2C9 Poor Metabolizer,included,missense,p.I327T,p.R132W
+*31/*52,CYP2C9 Poor Metabolizer,included,missense,p.I327T,p.T299R
+*33/*33,CYP2C9 Poor Metabolizer,included,missense,p.R132Q,p.R132Q
+*33/*35,CYP2C9 Poor Metabolizer,included,missense,p.R132Q,"p.R125H; p.R125L , p.R144C"
+*33/*37,CYP2C9 Poor Metabolizer,included,missense,p.R132Q,p.D49G
+*33/*38,CYP2C9 Poor Metabolizer,included,missense,p.R132Q,p.G96A
+*33/*39,CYP2C9 Poor Metabolizer,included,missense,p.R132Q,p.G98V
+*33/*42,CYP2C9 Poor Metabolizer,included,missense,p.R132Q,p.R124Q
+*33/*43,CYP2C9 Poor Metabolizer,included,missense,p.R132Q,p.R124W
+*33/*44,CYP2C9 Poor Metabolizer,included,missense,p.R132Q,p.T130R; p.T130M
+*33/*45,CYP2C9 Poor Metabolizer,included,missense,p.R132Q,p.R132W
+*33/*46,CYP2C9 Poor Metabolizer,included,missense,p.R132Q,p.A149T
+*33/*50,CYP2C9 Poor Metabolizer,included,missense,p.R132Q,p.P227S
+*33/*52,CYP2C9 Poor Metabolizer,included,missense,p.R132Q,p.T299R
+*33/*55,CYP2C9 Poor Metabolizer,included,missense,p.R132Q,p.L361I
+*33/*61,CYP2C9 Poor Metabolizer,included,missense,p.R132Q,"p.R144C , p.N457S"
+*35/*35,CYP2C9 Poor Metabolizer,included,missense,"p.R125H; p.R125L , p.R144C","p.R125H; p.R125L , p.R144C"
+*35/*37,CYP2C9 Poor Metabolizer,included,missense,"p.R125H; p.R125L , p.R144C",p.D49G
+*35/*38,CYP2C9 Poor Metabolizer,included,missense,"p.R125H; p.R125L , p.R144C",p.G96A
+*35/*39,CYP2C9 Poor Metabolizer,included,missense,"p.R125H; p.R125L , p.R144C",p.G98V
+*35/*42,CYP2C9 Poor Metabolizer,included,missense,"p.R125H; p.R125L , p.R144C",p.R124Q
+*35/*43,CYP2C9 Poor Metabolizer,included,missense,"p.R125H; p.R125L , p.R144C",p.R124W
+*35/*44,CYP2C9 Poor Metabolizer,included,missense,"p.R125H; p.R125L , p.R144C",p.T130R; p.T130M
+*35/*45,CYP2C9 Poor Metabolizer,included,missense,"p.R125H; p.R125L , p.R144C",p.R132W
+*35/*46,CYP2C9 Poor Metabolizer,included,missense,"p.R125H; p.R125L , p.R144C",p.A149T
+*35/*50,CYP2C9 Poor Metabolizer,included,missense,"p.R125H; p.R125L , p.R144C",p.P227S
+*35/*52,CYP2C9 Poor Metabolizer,included,missense,"p.R125H; p.R125L , p.R144C",p.T299R
+*35/*55,CYP2C9 Poor Metabolizer,included,missense,"p.R125H; p.R125L , p.R144C",p.L361I
+*35/*61,CYP2C9 Poor Metabolizer,included,missense,"p.R125H; p.R125L , p.R144C","p.R144C , p.N457S"
+*37/*39,CYP2C9 Poor Metabolizer,included,missense,p.D49G,p.G98V
+*37/*42,CYP2C9 Poor Metabolizer,included,missense,p.D49G,p.R124Q
+*37/*43,CYP2C9 Poor Metabolizer,included,missense,p.D49G,p.R124W
+*37/*45,CYP2C9 Poor Metabolizer,included,missense,p.D49G,p.R132W
+*37/*52,CYP2C9 Poor Metabolizer,included,missense,p.D49G,p.T299R
+*38/*39,CYP2C9 Poor Metabolizer,included,missense,p.G96A,p.G98V
+*38/*42,CYP2C9 Poor Metabolizer,included,missense,p.G96A,p.R124Q
+*38/*43,CYP2C9 Poor Metabolizer,included,missense,p.G96A,p.R124W
+*38/*45,CYP2C9 Poor Metabolizer,included,missense,p.G96A,p.R132W
+*38/*52,CYP2C9 Poor Metabolizer,included,missense,p.G96A,p.T299R
+*39/*39,CYP2C9 Poor Metabolizer,included,missense,p.G98V,p.G98V
+*39/*42,CYP2C9 Poor Metabolizer,included,missense,p.G98V,p.R124Q
+*39/*43,CYP2C9 Poor Metabolizer,included,missense,p.G98V,p.R124W
+*39/*44,CYP2C9 Poor Metabolizer,included,missense,p.G98V,p.T130R; p.T130M
+*39/*45,CYP2C9 Poor Metabolizer,included,missense,p.G98V,p.R132W
+*39/*46,CYP2C9 Poor Metabolizer,included,missense,p.G98V,p.A149T
+*39/*50,CYP2C9 Poor Metabolizer,included,missense,p.G98V,p.P227S
+*39/*52,CYP2C9 Poor Metabolizer,included,missense,p.G98V,p.T299R
+*39/*55,CYP2C9 Poor Metabolizer,included,missense,p.G98V,p.L361I
+*39/*61,CYP2C9 Poor Metabolizer,included,missense,p.G98V,"p.R144C , p.N457S"
+*42/*42,CYP2C9 Poor Metabolizer,included,missense,p.R124Q,p.R124Q
+*42/*43,CYP2C9 Poor Metabolizer,included,missense,p.R124Q,p.R124W
+*42/*44,CYP2C9 Poor Metabolizer,included,missense,p.R124Q,p.T130R; p.T130M
+*42/*45,CYP2C9 Poor Metabolizer,included,missense,p.R124Q,p.R132W
+*42/*46,CYP2C9 Poor Metabolizer,included,missense,p.R124Q,p.A149T
+*42/*50,CYP2C9 Poor Metabolizer,included,missense,p.R124Q,p.P227S
+*42/*52,CYP2C9 Poor Metabolizer,included,missense,p.R124Q,p.T299R
+*42/*55,CYP2C9 Poor Metabolizer,included,missense,p.R124Q,p.L361I
+*42/*61,CYP2C9 Poor Metabolizer,included,missense,p.R124Q,"p.R144C , p.N457S"
+*43/*43,CYP2C9 Poor Metabolizer,included,missense,p.R124W,p.R124W
+*43/*44,CYP2C9 Poor Metabolizer,included,missense,p.R124W,p.T130R; p.T130M
+*43/*45,CYP2C9 Poor Metabolizer,included,missense,p.R124W,p.R132W
+*43/*46,CYP2C9 Poor Metabolizer,included,missense,p.R124W,p.A149T
+*43/*50,CYP2C9 Poor Metabolizer,included,missense,p.R124W,p.P227S
+*43/*52,CYP2C9 Poor Metabolizer,included,missense,p.R124W,p.T299R
+*43/*55,CYP2C9 Poor Metabolizer,included,missense,p.R124W,p.L361I
+*43/*61,CYP2C9 Poor Metabolizer,included,missense,p.R124W,"p.R144C , p.N457S"
+*44/*45,CYP2C9 Poor Metabolizer,included,missense,p.T130R; p.T130M,p.R132W
+*44/*52,CYP2C9 Poor Metabolizer,included,missense,p.T130R; p.T130M,p.T299R
+*45/*45,CYP2C9 Poor Metabolizer,included,missense,p.R132W,p.R132W
+*45/*46,CYP2C9 Poor Metabolizer,included,missense,p.R132W,p.A149T
+*45/*50,CYP2C9 Poor Metabolizer,included,missense,p.R132W,p.P227S
+*45/*52,CYP2C9 Poor Metabolizer,included,missense,p.R132W,p.T299R
+*45/*55,CYP2C9 Poor Metabolizer,included,missense,p.R132W,p.L361I
+*45/*61,CYP2C9 Poor Metabolizer,included,missense,p.R132W,"p.R144C , p.N457S"
+*46/*52,CYP2C9 Poor Metabolizer,included,missense,p.A149T,p.T299R
+*50/*52,CYP2C9 Poor Metabolizer,included,missense,p.P227S,p.T299R
+*52/*52,CYP2C9 Poor Metabolizer,included,missense,p.T299R,p.T299R
+*52/*55,CYP2C9 Poor Metabolizer,included,missense,p.T299R,p.L361I
+*52/*61,CYP2C9 Poor Metabolizer,included,missense,p.T299R,"p.R144C , p.N457S"

@@ -1,0 +1,76 @@
+Allele,Count,Protein_Effect,Reason,Position,Normalized_Position,Ref_AA,Alt_AA,Mutation_Type,Mutation_Severity,Region,Region_Score,Region_Description,In_SRS,Grantham_Score,Substitution_Class,Charge_Change,Hydrophobicity_Change,Size_Change,Polarity_Change,Distance_to_Heme,Distance_to_SRS,Near_Heme,Predicted_Impact_Score,is_missense,is_truncating,is_frameshift,is_splice,is_deletion,Has_SRS1,Has_SRS2,Has_SRS4,Has_SRS5,Has_SRS6
+*1,39,wild type,missense,0,0.0,,,wild_type,0.0,None,0.3,No mutation,0,0,none,0,0,0,0,490,490,0,0.09,0,0,0,0,0,0,0,0,0,0
+*2,39,p.R144C,missense,144,0.2938775510204082,R,C,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,180,radical,1,0,2,1,292,18,0,0.5604081632653062,1,0,0,0,0,0,0,0,0,0
+*3,39,p.I359L,missense,359,0.7326530612244898,I,L,missense,0.5,SRS5,0.9,Substrate Recognition Site 5,1,5,conservative,0,0,0,0,77,0,0,0.5092857142857143,1,0,0,0,0,0,0,0,1,0
+*4,39,p.I359T,missense,359,0.7326530612244898,I,T,missense,0.5,SRS5,0.9,Substrate Recognition Site 5,1,89,moderately_conservative,0,1,1,1,77,0,0,0.659952380952381,1,0,0,0,0,0,0,0,1,0
+*5,39,p.D360E,missense,360,0.7346938775510204,D,E,missense,0.5,SRS5,0.9,Substrate Recognition Site 5,1,45,conservative,0,0,0,0,76,0,0,0.5494897959183673,1,0,0,0,0,0,0,0,1,0
+*6,39,p.K273fs(delA),missense,273,0.5571428571428572,,fs,frameshift,1.0,Non-SRS,0.3,Outside SRS regions,0,0,none,1,1,1,1,163,17,0,0.556734693877551,0,0,1,0,0,0,0,0,0,0
+*7,76,p.L19I,missense,19,0.03877551020408163,L,I,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,5,conservative,0,0,0,0,417,78,0,0.2598979591836735,1,0,0,0,0,0,0,0,0,0
+*8,39,p.R150H; p.R150L,missense,150,0.30612244897959184,R,H,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,29,conservative,0,0,1,0,286,24,0,0.34396598639455783,1,0,0,0,0,0,0,0,0,0
+*9,39,p.H251R,missense,251,0.5122448979591837,H,R,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,29,conservative,0,0,1,0,185,1,0,0.36457823129251704,1,0,0,0,0,0,0,0,0,0
+*10,76,p.E272G,missense,272,0.5551020408163265,E,G,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,98,moderately_conservative,1,0,1,1,164,18,0,0.4711972789115646,1,0,0,0,0,0,0,0,0,0
+*11,39,p.R335W,missense,335,0.6836734693877551,R,W,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,101,moderately_radical,1,1,0,1,101,15,0,0.48705442176870745,1,0,0,0,0,0,0,0,0,0
+*12,39,p.P489S,missense,489,0.9979591836734694,P,S,missense,0.5,SRS6,1.0,Heme binding (critical),1,74,moderately_conservative,0,1,0,1,53,0,0,0.6465170068027211,1,0,0,0,0,0,0,0,0,1
+*13,39,p.L90P,missense,90,0.1836734693877551,L,P,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,98,moderately_conservative,0,0,2,0,346,7,0,0.43405442176870745,1,0,0,0,0,0,0,0,0,0
+*14,39,p.R125H; p.R125L,missense,125,0.25510204081632654,R,H,missense,0.5,SRS1,0.7,Substrate Recognition Site 1,1,29,conservative,0,0,1,0,311,0,0,0.4588639455782313,1,0,0,0,0,1,0,0,0,0
+*15,39,p.S162X,missense,162,0.3306122448979592,S,X,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,200,radical,1,1,1,1,274,36,0,0.5840816326530612,1,0,0,0,0,0,0,0,0,0
+*16,39,p.T299A,missense,299,0.610204081632653,T,A,missense,0.5,SRS4,0.8,I-helix (catalytic),1,58,moderately_conservative,0,1,1,1,137,0,0,0.5867074829931973,1,0,0,0,0,0,0,1,0,0
+*17,76,p.P382S,missense,382,0.7795918367346939,P,S,missense,0.5,SRS5,0.9,Substrate Recognition Site 5,1,74,moderately_conservative,0,1,0,1,54,0,0,0.6163129251700681,1,0,0,0,0,0,0,0,1,0
+*18,76,"p.I359L , p.D397A",missense,359,0.7326530612244898,I,L,missense,0.5,SRS5,0.9,Substrate Recognition Site 5,1,5,conservative,0,0,0,0,77,0,0,0.5092857142857143,1,0,0,0,0,0,0,0,1,0
+*19,76,p.Q454H,missense,454,0.926530612244898,Q,H,missense,0.5,SRS6,1.0,Heme binding (critical),1,24,conservative,1,0,0,1,18,0,1,0.6036598639455782,1,0,0,0,0,0,0,0,0,1
+*20,76,p.G70R,missense,70,0.14285714285714285,G,R,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,125,moderately_radical,1,0,2,1,366,27,0,0.4903061224489796,1,0,0,0,0,0,0,0,0,0
+*21,76,p.P30L,missense,30,0.061224489795918366,P,L,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,98,moderately_conservative,0,0,2,0,406,67,0,0.42180952380952375,1,0,0,0,0,0,0,0,0,0
+*22,76,p.N41D,missense,41,0.0836734693877551,N,D,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,23,conservative,1,0,0,1,395,56,0,0.31572108843537416,1,0,0,0,0,0,0,0,0,0
+*23,39,p.V76M,missense,76,0.15510204081632653,V,M,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,21,conservative,0,0,1,0,360,21,0,0.3208639455782313,1,0,0,0,0,0,0,0,0,0
+*24,39,p.E354K,missense,354,0.7224489795918367,E,K,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,56,moderately_conservative,2,0,1,0,82,5,0,0.479265306122449,1,0,0,0,0,0,0,0,0,0
+*25,39,wild type,missense,0,0.0,,,wild_type,0.0,None,0.3,No mutation,0,0,none,0,0,0,0,490,490,0,0.09,0,0,0,0,0,0,0,0,0,0
+*26,39,p.T130R; p.T130M,missense,130,0.2653061224489796,T,R,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,71,moderately_conservative,1,0,1,1,306,4,0,0.4152176870748299,1,0,0,0,0,0,0,0,0,0
+*27,76,p.R150H; p.R150L,missense,150,0.30612244897959184,R,H,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,29,conservative,0,0,1,0,286,24,0,0.34396598639455783,1,0,0,0,0,0,0,0,0,0
+*28,39,p.Q214L,missense,214,0.43673469387755104,Q,L,missense,0.5,SRS2,0.7,Substrate Recognition Site 2,1,113,moderately_radical,0,1,1,1,222,0,0,0.594360544217687,1,0,0,0,0,0,1,0,0,0
+*29,39,p.P279T,missense,279,0.5693877551020409,P,T,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,100,moderately_conservative,0,1,1,1,157,11,0,0.474625850340136,1,0,0,0,0,0,0,0,0,0
+*30,39,p.A477T,missense,477,0.9734693877551021,A,T,missense,0.5,SRS6,1.0,Heme binding (critical),1,58,moderately_conservative,0,1,1,1,41,0,0,0.6662993197278911,1,0,0,0,0,0,0,0,0,1
+*31,39,p.I327T,missense,327,0.6673469387755102,I,T,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,89,moderately_conservative,0,1,1,1,109,7,0,0.473421768707483,1,0,0,0,0,0,0,0,0,0
+*32,76,p.V490F,missense,490,1.0,V,F,missense,0.5,SRS6,1.0,Heme binding (critical),1,50,conservative,0,0,1,0,54,0,0,0.6223129251700681,1,0,0,0,0,0,0,0,0,1
+*33,39,p.R132Q,missense,132,0.2693877551020408,R,Q,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,43,conservative,1,0,1,1,304,6,0,0.387625850340136,1,0,0,0,0,0,0,0,0,0
+*34,76,p.R132Q,missense,132,0.2693877551020408,R,Q,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,43,conservative,1,0,1,1,304,6,0,0.387625850340136,1,0,0,0,0,0,0,0,0,0
+*35,39,"p.R125H; p.R125L , p.R144C",missense,125,0.25510204081632654,R,H,missense,0.5,SRS1,0.7,Substrate Recognition Site 1,1,29,conservative,0,0,1,0,311,0,0,0.4588639455782313,1,0,0,0,0,1,0,0,0,0
+*36,76,"p.M1V , p.D360E",missense,1,0.0020408163265306124,M,V,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,21,conservative,0,0,1,0,435,96,0,0.3055578231292517,1,0,0,0,0,0,0,0,0,0
+*37,39,p.D49G,missense,49,0.1,D,G,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,94,moderately_conservative,1,0,1,1,387,48,0,0.4216870748299319,1,0,0,0,0,0,0,0,0,0
+*38,39,p.G96A,missense,96,0.19591836734693877,G,A,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,60,moderately_conservative,0,1,0,0,340,1,0,0.3639455782312925,1,0,0,0,0,0,0,0,0,0
+*39,39,p.G98V,missense,98,0.2,G,V,missense,0.5,SRS1,0.7,Substrate Recognition Site 1,1,109,moderately_radical,0,1,1,0,338,0,0,0.566687074829932,1,0,0,0,0,1,0,0,0,0
+*40,76,p.F110S,missense,110,0.22448979591836735,F,S,missense,0.5,SRS1,0.7,Substrate Recognition Site 1,1,155,radical,0,1,2,1,326,0,0,0.648469387755102,1,0,0,0,0,1,0,0,0,0
+*41,76,p.K119R,missense,119,0.24285714285714285,K,R,missense,0.5,SRS1,0.7,Substrate Recognition Site 1,1,26,conservative,0,0,0,0,317,0,0,0.4213061224489796,1,0,0,0,0,1,0,0,0,0
+*42,39,p.R124Q,missense,124,0.2530612244897959,R,Q,missense,0.5,SRS1,0.7,Substrate Recognition Site 1,1,43,conservative,1,0,1,1,312,0,0,0.5059931972789116,1,0,0,0,0,1,0,0,0,0
+*43,39,p.R124W,missense,124,0.2530612244897959,R,W,missense,0.5,SRS1,0.7,Substrate Recognition Site 1,1,101,moderately_radical,1,1,0,1,312,0,0,0.5639931972789115,1,0,0,0,0,1,0,0,0,0
+*44,39,p.T130R; p.T130M,missense,130,0.2653061224489796,T,R,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,71,moderately_conservative,1,0,1,1,306,4,0,0.4152176870748299,1,0,0,0,0,0,0,0,0,0
+*45,39,p.R132W,missense,132,0.2693877551020408,R,W,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,101,moderately_radical,1,1,0,1,304,6,0,0.445625850340136,1,0,0,0,0,0,0,0,0,0
+*46,39,p.A149T,missense,149,0.3040816326530612,A,T,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,58,moderately_conservative,0,1,1,1,287,23,0,0.40609523809523806,1,0,0,0,0,0,0,0,0,0
+*47,76,p.P163L,missense,163,0.3326530612244898,P,L,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,98,moderately_conservative,0,0,2,0,273,37,0,0.4489523809523809,1,0,0,0,0,0,0,0,0,0
+*48,76,p.I207T,missense,207,0.42244897959183675,I,T,missense,0.5,SRS2,0.7,Substrate Recognition Site 2,1,89,moderately_conservative,0,1,1,1,229,0,0,0.5689319727891157,1,0,0,0,0,0,1,0,0,0
+*49,76,p.I222V,missense,222,0.4530612244897959,I,V,missense,0.5,SRS2,0.7,Substrate Recognition Site 2,1,29,conservative,0,0,1,0,214,0,0,0.47865986394557825,1,0,0,0,0,0,1,0,0,0
+*50,39,p.P227S,missense,227,0.463265306122449,P,S,missense,0.5,SRS2,0.7,Substrate Recognition Site 2,1,74,moderately_conservative,0,1,0,1,209,0,0,0.5246802721088435,1,0,0,0,0,0,1,0,0,0
+*51,76,p.I284V,missense,284,0.5795918367346938,I,V,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,29,conservative,0,0,1,0,152,6,0,0.37131292517006803,1,0,0,0,0,0,0,0,0,0
+*52,39,p.T299R,missense,299,0.610204081632653,T,R,missense,0.5,SRS4,0.8,I-helix (catalytic),1,71,moderately_conservative,1,0,1,1,137,0,0,0.5997074829931973,1,0,0,0,0,0,0,1,0,0
+*53,76,p.P317S,missense,317,0.6469387755102041,P,S,missense,0.5,SRS4,0.8,I-helix (catalytic),1,74,moderately_conservative,0,1,0,1,119,0,0,0.573047619047619,1,0,0,0,0,0,0,1,0,0
+*54,76,p.S343R,missense,343,0.7,S,R,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,110,moderately_radical,1,0,2,1,93,16,0,0.5310204081632652,1,0,0,0,0,0,0,0,0,0
+*55,39,p.L361I,missense,361,0.736734693877551,L,I,missense,0.5,SRS5,0.9,Substrate Recognition Site 5,1,5,conservative,0,0,0,0,75,0,0,0.5096938775510205,1,0,0,0,0,0,0,0,1,0
+*56,76,p.I387V,missense,387,0.789795918367347,I,V,missense,0.5,SRS5,0.9,Substrate Recognition Site 5,1,29,conservative,0,0,1,0,49,0,0,0.5723333333333334,1,0,0,0,0,0,0,0,1,0
+*57,76,p.N204H,missense,204,0.4163265306122449,N,H,missense,0.5,SRS2,0.7,Substrate Recognition Site 2,1,68,moderately_conservative,1,0,0,1,232,0,0,0.5139863945578231,1,0,0,0,0,0,1,0,0,0
+*58,76,p.P337T,missense,337,0.6877551020408164,P,T,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,100,moderately_conservative,0,1,1,1,99,17,0,0.4864625850340136,1,0,0,0,0,0,0,0,0,0
+*59,76,p.I434F,missense,434,0.8857142857142857,I,F,missense,0.5,SRS6,1.0,Heme binding (critical),1,21,conservative,0,0,0,0,2,0,1,0.5705918367346938,1,0,0,0,0,0,0,0,0,1
+*60,76,p.L467P,missense,467,0.9530612244897959,L,P,missense,0.5,SRS6,1.0,Heme binding (critical),1,98,moderately_conservative,0,0,2,0,31,0,0,0.7083401360544217,1,0,0,0,0,0,0,0,0,1
+*61,39,"p.R144C , p.N457S",missense,144,0.2938775510204082,R,C,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,180,radical,1,0,2,1,292,18,0,0.5604081632653062,1,0,0,0,0,0,0,0,0,0
+*62,76,p.R125C,missense,125,0.25510204081632654,R,C,missense,0.5,SRS1,0.7,Substrate Recognition Site 1,1,180,radical,1,0,2,1,311,0,0,0.676530612244898,1,0,0,0,0,1,0,0,0,0
+*63,76,p.R144H,missense,144,0.2938775510204082,R,H,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,29,conservative,0,0,1,0,292,18,0,0.34274149659863945,1,0,0,0,0,0,0,0,0,0
+*64,76,p.S280C,missense,280,0.5714285714285714,S,C,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,112,moderately_radical,0,0,0,0,156,10,0,0.4201632653061224,1,0,0,0,0,0,0,0,0,0
+*65,76,p.E326D,missense,326,0.6653061224489796,E,D,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,45,conservative,0,0,0,0,110,6,0,0.3625510204081632,1,0,0,0,0,0,0,0,0,0
+*66,76,p.L362V,missense,362,0.7387755102040816,L,V,missense,0.5,SRS5,0.9,Substrate Recognition Site 5,1,32,conservative,0,0,1,0,74,0,0,0.5702312925170069,1,0,0,0,0,0,0,0,1,0
+*67,76,p.R433W,missense,433,0.8836734693877552,R,W,missense,0.5,SRS6,1.0,Heme binding (critical),1,101,moderately_radical,1,1,0,1,3,0,1,0.7170544217687074,1,0,0,0,0,0,0,0,0,1
+*68,76,wild type,splicing defect,0,0.0,,,wild_type,0.0,None,0.3,No mutation,0,0,none,0,0,0,0,490,490,0,0.09,0,0,0,0,0,0,0,0,0,0
+*69,76,p.D191G,missense,191,0.38979591836734695,D,G,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,94,moderately_conservative,1,0,1,1,245,9,0,0.4506666666666666,1,0,0,0,0,0,0,0,0,0
+*70,76,p.G442V,missense,442,0.9020408163265307,G,V,missense,0.5,SRS6,1.0,Heme binding (critical),1,109,moderately_radical,0,1,1,0,6,0,1,0.7244421768707482,1,0,0,0,0,0,0,0,0,1
+*71,76,"p.E272G , p.P489S",missense,272,0.5551020408163265,E,G,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,98,moderately_conservative,1,0,1,1,164,18,0,0.4711972789115646,1,0,0,0,0,0,0,0,0,0
+*72,76,p.A149V,missense,149,0.3040816326530612,A,V,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,64,moderately_conservative,0,0,1,0,287,23,0,0.37876190476190474,1,0,0,0,0,0,0,0,0,0
+*73,76,p.R150C,missense,150,0.30612244897959184,R,C,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,180,radical,1,0,2,1,286,24,0,0.5616326530612246,1,0,0,0,0,0,0,0,0,0
+*74,76,p.Q214H,missense,214,0.43673469387755104,Q,H,missense,0.5,SRS2,0.7,Substrate Recognition Site 2,1,24,conservative,1,0,0,1,222,0,0,0.47202721088435373,1,0,0,0,0,0,1,0,0,0
+*75,76,p.N418T,missense,418,0.8530612244897959,N,T,missense,0.5,Non-SRS,0.3,Outside SRS regions,0,100,moderately_conservative,0,0,0,0,18,12,1,0.43632653061224486,1,0,0,0,0,0,0,0,0,0

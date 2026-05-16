@@ -1,0 +1,365 @@
+Diplotype,Effect1,Effect2,Position1,Position2,Region1,Region2,Priority,is_missense1,is_missense2,Source
+*3/*30,p.I359L,p.A477T,359,477,SRS5,SRS6,80,True,True,Known
+*3/*12,p.I359L,p.P489S,359,489,SRS5,SRS6,80,True,True,Known
+*12/*35,p.P489S,"p.R125H; p.R125L , p.R144C",489,125,SRS6,SRS1,70,True,True,Known
+*12/*52,p.P489S,p.T299R,489,299,SRS6,SRS4,70,True,True,Known
+*30/*39,p.A477T,p.G98V,477,98,SRS6,SRS1,70,True,True,Known
+*30/*35,p.A477T,"p.R125H; p.R125L , p.R144C",477,125,SRS6,SRS1,70,True,True,Known
+*30/*43,p.A477T,p.R124W,477,124,SRS6,SRS1,70,True,True,Known
+*30/*52,p.A477T,p.T299R,477,299,SRS6,SRS4,70,True,True,Known
+*12/*39,p.P489S,p.G98V,489,98,SRS6,SRS1,70,True,True,Known
+*30/*42,p.A477T,p.R124Q,477,124,SRS6,SRS1,70,True,True,Known
+*12/*42,p.P489S,p.R124Q,489,124,SRS6,SRS1,70,True,True,Known
+*12/*43,p.P489S,p.R124W,489,124,SRS6,SRS1,70,True,True,Known
+*13/*30,p.L90P,p.A477T,90,477,Helix,SRS6,65,True,True,Known
+*12/*13,p.P489S,p.L90P,489,90,SRS6,Helix,65,True,True,Known
+*3/*4,p.I359L,p.I359T,359,359,SRS5,SRS5,60,True,True,Known
+*3/*5,p.I359L,p.D360E,359,360,SRS5,SRS5,60,True,True,Known
+*3/*3,p.I359L,p.I359L,359,359,SRS5,SRS5,60,True,True,Known
+*3/*55,p.I359L,p.L361I,359,361,SRS5,SRS5,60,True,True,Known
+*3/*11,p.I359L,p.R335W,359,335,SRS5,I-helix,55,True,True,Known
+*3/*31,p.I359L,p.I327T,359,327,SRS5,I-helix,55,True,True,Known
+*12/*33,p.P489S,p.R132Q,489,132,SRS6,Non-SRS,50,True,True,Known
+*12/*25,p.P489S,,489,0,SRS6,Non-SRS,50,True,False,Known
+*4/*42,p.I359T,p.R124Q,359,124,SRS5,SRS1,50,True,True,Known
+*12/*24,p.P489S,p.E354K,489,354,SRS6,Non-SRS,50,True,True,Known
+*15/*30,p.S162X,p.A477T,162,477,Non-SRS,SRS6,50,False,True,Known
+*30/*45,p.A477T,p.R132W,477,132,SRS6,Non-SRS,50,True,True,Known
+*12/*15,p.P489S,p.S162X,489,162,SRS6,Non-SRS,50,True,False,Known
+*4/*35,p.I359T,"p.R125H; p.R125L , p.R144C",359,125,SRS5,SRS1,50,True,True,Known
+*4/*39,p.I359T,p.G98V,359,98,SRS5,SRS1,50,True,True,Known
+*12/*45,p.P489S,p.R132W,489,132,SRS6,Non-SRS,50,True,True,Known
+*4/*43,p.I359T,p.R124W,359,124,SRS5,SRS1,50,True,True,Known
+*4/*52,p.I359T,p.T299R,359,299,SRS5,SRS4,50,True,True,Known
+*35/*55,"p.R125H; p.R125L , p.R144C",p.L361I,125,361,SRS1,SRS5,50,True,True,Known
+*5/*39,p.D360E,p.G98V,360,98,SRS5,SRS1,50,True,True,Known
+*5/*42,p.D360E,p.R124Q,360,124,SRS5,SRS1,50,True,True,Known
+*5/*43,p.D360E,p.R124W,360,124,SRS5,SRS1,50,True,True,Known
+*5/*52,p.D360E,p.T299R,360,299,SRS5,SRS4,50,True,True,Known
+*3/*52,p.I359L,p.T299R,359,299,SRS5,SRS4,50,True,True,Known
+*42/*55,p.R124Q,p.L361I,124,361,SRS1,SRS5,50,True,True,Known
+*6/*30,p.K273fs(delA),p.A477T,273,477,Non-SRS,SRS6,50,False,True,Known
+*39/*55,p.G98V,p.L361I,98,361,SRS1,SRS5,50,True,True,Known
+*6/*12,p.K273fs(delA),p.P489S,273,489,Non-SRS,SRS6,50,False,True,Known
+*5/*35,p.D360E,"p.R125H; p.R125L , p.R144C",360,125,SRS5,SRS1,50,True,True,Known
+*3/*50,p.I359L,p.P227S,359,227,SRS5,SRS2,50,True,True,Known
+*43/*55,p.R124W,p.L361I,124,361,SRS1,SRS5,50,True,True,Known
+*24/*30,p.E354K,p.A477T,354,477,Non-SRS,SRS6,50,True,True,Known
+*3/*16,p.I359L,p.T299A,359,299,SRS5,SRS4,50,True,True,Known
+*3/*28,p.I359L,p.Q214L,359,214,SRS5,SRS2,50,True,True,Known
+*52/*55,p.T299R,p.L361I,299,361,SRS4,SRS5,50,True,True,Known
+*3/*14,p.I359L,p.R125H; p.R125L,359,125,SRS5,SRS1,50,True,True,Known
+*3/*35,p.I359L,"p.R125H; p.R125L , p.R144C",359,125,SRS5,SRS1,50,True,True,Known
+*30/*33,p.A477T,p.R132Q,477,132,SRS6,Non-SRS,50,True,True,Known
+*3/*43,p.I359L,p.R124W,359,124,SRS5,SRS1,50,True,True,Known
+*3/*39,p.I359L,p.G98V,359,98,SRS5,SRS1,50,True,True,Known
+*3/*42,p.I359L,p.R124Q,359,124,SRS5,SRS1,50,True,True,Known
+*25/*30,,p.A477T,0,477,Non-SRS,SRS6,50,False,True,Known
+*11/*52,p.R335W,p.T299R,335,299,I-helix,SRS4,45,True,True,Known
+*3/*13,p.I359L,p.L90P,359,90,SRS5,Helix,45,True,True,Known
+*13/*55,p.L90P,p.L361I,90,361,Helix,SRS5,45,True,True,Known
+*11/*35,p.R335W,"p.R125H; p.R125L , p.R144C",335,125,I-helix,SRS1,45,True,True,Known
+*11/*39,p.R335W,p.G98V,335,98,I-helix,SRS1,45,True,True,Known
+*11/*43,p.R335W,p.R124W,335,124,I-helix,SRS1,45,True,True,Known
+*11/*42,p.R335W,p.R124Q,335,124,I-helix,SRS1,45,True,True,Known
+*31/*52,p.I327T,p.T299R,327,299,I-helix,SRS4,45,True,True,Known
+*31/*39,p.I327T,p.G98V,327,98,I-helix,SRS1,45,True,True,Known
+*4/*13,p.I359T,p.L90P,359,90,SRS5,Helix,45,True,True,Known
+*3/*38,p.I359L,p.G96A,359,96,SRS5,Helix,45,True,True,Known
+*5/*13,p.D360E,p.L90P,360,90,SRS5,Helix,45,True,True,Known
+*31/*35,p.I327T,"p.R125H; p.R125L , p.R144C",327,125,I-helix,SRS1,45,True,True,Known
+*31/*43,p.I327T,p.R124W,327,124,I-helix,SRS1,45,True,True,Known
+*31/*42,p.I327T,p.R124Q,327,124,I-helix,SRS1,45,True,True,Known
+*35/*39,"p.R125H; p.R125L , p.R144C",p.G98V,125,98,SRS1,SRS1,40,True,True,Known
+*39/*50,p.G98V,p.P227S,98,227,SRS1,SRS2,40,True,True,Known
+*16/*42,p.T299A,p.R124Q,299,124,SRS4,SRS1,40,True,True,Known
+*13/*31,p.L90P,p.I327T,90,327,Helix,I-helix,40,True,True,Known
+*39/*43,p.G98V,p.R124W,98,124,SRS1,SRS1,40,True,True,Known
+*39/*42,p.G98V,p.R124Q,98,124,SRS1,SRS1,40,True,True,Known
+*39/*39,p.G98V,p.G98V,98,98,SRS1,SRS1,40,True,True,Known
+*43/*52,p.R124W,p.T299R,124,299,SRS1,SRS4,40,True,True,Known
+*16/*52,p.T299A,p.T299R,299,299,SRS4,SRS4,40,True,True,Known
+*16/*43,p.T299A,p.R124W,299,124,SRS4,SRS1,40,True,True,Known
+*35/*42,"p.R125H; p.R125L , p.R144C",p.R124Q,125,124,SRS1,SRS1,40,True,True,Known
+*35/*43,"p.R125H; p.R125L , p.R144C",p.R124W,125,124,SRS1,SRS1,40,True,True,Known
+*50/*52,p.P227S,p.T299R,227,299,SRS2,SRS4,40,True,True,Known
+*35/*52,"p.R125H; p.R125L , p.R144C",p.T299R,125,299,SRS1,SRS4,40,True,True,Known
+*52/*52,p.T299R,p.T299R,299,299,SRS4,SRS4,40,True,True,Known
+*35/*50,"p.R125H; p.R125L , p.R144C",p.P227S,125,227,SRS1,SRS2,40,True,True,Known
+*39/*52,p.G98V,p.T299R,98,299,SRS1,SRS4,40,True,True,Known
+*11/*13,p.R335W,p.L90P,335,90,I-helix,Helix,40,True,True,Known
+*14/*42,p.R125H; p.R125L,p.R124Q,125,124,SRS1,SRS1,40,True,True,Known
+*14/*35,p.R125H; p.R125L,"p.R125H; p.R125L , p.R144C",125,125,SRS1,SRS1,40,True,True,Known
+*43/*43,p.R124W,p.R124W,124,124,SRS1,SRS1,40,True,True,Known
+*16/*35,p.T299A,"p.R125H; p.R125L , p.R144C",299,125,SRS4,SRS1,40,True,True,Known
+*14/*39,p.R125H; p.R125L,p.G98V,125,98,SRS1,SRS1,40,True,True,Known
+*42/*52,p.R124Q,p.T299R,124,299,SRS1,SRS4,40,True,True,Known
+*28/*35,p.Q214L,"p.R125H; p.R125L , p.R144C",214,125,SRS2,SRS1,40,True,True,Known
+*28/*39,p.Q214L,p.G98V,214,98,SRS2,SRS1,40,True,True,Known
+*28/*42,p.Q214L,p.R124Q,214,124,SRS2,SRS1,40,True,True,Known
+*42/*50,p.R124Q,p.P227S,124,227,SRS1,SRS2,40,True,True,Known
+*42/*42,p.R124Q,p.R124Q,124,124,SRS1,SRS1,40,True,True,Known
+*35/*35,"p.R125H; p.R125L , p.R144C","p.R125H; p.R125L , p.R144C",125,125,SRS1,SRS1,40,True,True,Known
+*14/*43,p.R125H; p.R125L,p.R124W,125,124,SRS1,SRS1,40,True,True,Known
+*14/*52,p.R125H; p.R125L,p.T299R,125,299,SRS1,SRS4,40,True,True,Known
+*16/*39,p.T299A,p.G98V,299,98,SRS4,SRS1,40,True,True,Known
+*28/*43,p.Q214L,p.R124W,214,124,SRS2,SRS1,40,True,True,Known
+*28/*52,p.Q214L,p.T299R,214,299,SRS2,SRS4,40,True,True,Known
+*42/*43,p.R124Q,p.R124W,124,124,SRS1,SRS1,40,True,True,Known
+*43/*50,p.R124W,p.P227S,124,227,SRS1,SRS2,40,True,True,Known
+*13/*50,p.L90P,p.P227S,90,227,Helix,SRS2,35,True,True,Known
+*13/*14,p.L90P,p.R125H; p.R125L,90,125,Helix,SRS1,35,True,True,Known
+*13/*39,p.L90P,p.G98V,90,98,Helix,SRS1,35,True,True,Known
+*13/*52,p.L90P,p.T299R,90,299,Helix,SRS4,35,True,True,Known
+*38/*42,p.G96A,p.R124Q,96,124,Helix,SRS1,35,True,True,Known
+*13/*35,p.L90P,"p.R125H; p.R125L , p.R144C",90,125,Helix,SRS1,35,True,True,Known
+*35/*38,"p.R125H; p.R125L , p.R144C",p.G96A,125,96,SRS1,Helix,35,True,True,Known
+*13/*42,p.L90P,p.R124Q,90,124,Helix,SRS1,35,True,True,Known
+*13/*43,p.L90P,p.R124W,90,124,Helix,SRS1,35,True,True,Known
+*38/*52,p.G96A,p.T299R,96,299,Helix,SRS4,35,True,True,Known
+*38/*43,p.G96A,p.R124W,96,124,Helix,SRS1,35,True,True,Known
+*38/*39,p.G96A,p.G98V,96,98,Helix,SRS1,35,True,True,Known
+*13/*28,p.L90P,p.Q214L,90,214,Helix,SRS2,35,True,True,Known
+*13/*16,p.L90P,p.T299A,90,299,Helix,SRS4,35,True,True,Known
+*13/*13,p.L90P,p.L90P,90,90,Helix,Helix,30,True,True,Known
+*25/*55,,p.L361I,0,361,Non-SRS,SRS5,30,False,True,Known
+*24/*55,p.E354K,p.L361I,354,361,Non-SRS,SRS5,30,True,True,Known
+*33/*55,p.R132Q,p.L361I,132,361,Non-SRS,SRS5,30,True,True,Known
+*15/*55,p.S162X,p.L361I,162,361,Non-SRS,SRS5,30,False,True,Known
+*13/*38,p.L90P,p.G96A,90,96,Helix,Helix,30,True,True,Known
+*2/*3,p.R144C,p.I359L,144,359,Non-SRS,SRS5,30,True,True,Known
+*4/*15,p.I359T,p.S162X,359,162,SRS5,Non-SRS,30,True,False,Known
+*3/*37,p.I359L,p.D49G,359,49,SRS5,Non-SRS,30,True,True,Known
+*5/*25,p.D360E,,360,0,SRS5,Non-SRS,30,True,False,Known
+*5/*24,p.D360E,p.E354K,360,354,SRS5,Non-SRS,30,True,True,Known
+*5/*15,p.D360E,p.S162X,360,162,SRS5,Non-SRS,30,True,False,Known
+*5/*6,p.D360E,p.K273fs(delA),360,273,SRS5,Non-SRS,30,True,False,Known
+*4/*45,p.I359T,p.R132W,359,132,SRS5,Non-SRS,30,True,True,Known
+*4/*33,p.I359T,p.R132Q,359,132,SRS5,Non-SRS,30,True,True,Known
+*4/*25,p.I359T,,359,0,SRS5,Non-SRS,30,True,False,Known
+*4/*24,p.I359T,p.E354K,359,354,SRS5,Non-SRS,30,True,True,Known
+*4/*6,p.I359T,p.K273fs(delA),359,273,SRS5,Non-SRS,30,True,False,Known
+*3/*61,p.I359L,"p.R144C , p.N457S",359,144,SRS5,Non-SRS,30,True,True,Known
+*3/*46,p.I359L,p.A149T,359,149,SRS5,Non-SRS,30,True,True,Known
+*5/*45,p.D360E,p.R132W,360,132,SRS5,Non-SRS,30,True,True,Known
+*3/*44,p.I359L,p.T130R; p.T130M,359,130,SRS5,Non-SRS,30,True,True,Known
+*3/*45,p.I359L,p.R132W,359,132,SRS5,Non-SRS,30,True,True,Known
+*6/*55,p.K273fs(delA),p.L361I,273,361,Non-SRS,SRS5,30,False,True,Known
+*3/*24,p.I359L,p.E354K,359,354,SRS5,Non-SRS,30,True,True,Known
+*45/*55,p.R132W,p.L361I,132,361,Non-SRS,SRS5,30,True,True,Known
+*3/*6,p.I359L,p.K273fs(delA),359,273,SRS5,Non-SRS,30,True,False,Known
+*3/*8,p.I359L,p.R150H; p.R150L,359,150,SRS5,Non-SRS,30,True,True,Known
+*3/*15,p.I359L,p.S162X,359,162,SRS5,Non-SRS,30,True,False,Known
+*3/*33,p.I359L,p.R132Q,359,132,SRS5,Non-SRS,30,True,True,Known
+*3/*23,p.I359L,p.V76M,359,76,SRS5,Non-SRS,30,True,True,Known
+*3/*25,p.I359L,,359,0,SRS5,Non-SRS,30,True,False,Known
+*3/*26,p.I359L,p.T130R; p.T130M,359,130,SRS5,Non-SRS,30,True,True,Known
+*3/*29,p.I359L,p.P279T,359,279,SRS5,Non-SRS,30,True,True,Known
+*5/*33,p.D360E,p.R132Q,360,132,SRS5,Non-SRS,30,True,True,Known
+*31/*33,p.I327T,p.R132Q,327,132,I-helix,Non-SRS,25,True,True,Known
+*11/*33,p.R335W,p.R132Q,335,132,I-helix,Non-SRS,25,True,True,Known
+*15/*31,p.S162X,p.I327T,162,327,Non-SRS,I-helix,25,False,True,Known
+*31/*45,p.I327T,p.R132W,327,132,I-helix,Non-SRS,25,True,True,Known
+*25/*31,,p.I327T,0,327,Non-SRS,I-helix,25,False,True,Known
+*24/*31,p.E354K,p.I327T,354,327,Non-SRS,I-helix,25,True,True,Known
+*11/*45,p.R335W,p.R132W,335,132,I-helix,Non-SRS,25,True,True,Known
+*11/*24,p.R335W,p.E354K,335,354,I-helix,Non-SRS,25,True,True,Known
+*11/*15,p.R335W,p.S162X,335,162,I-helix,Non-SRS,25,True,False,Known
+*6/*31,p.K273fs(delA),p.I327T,273,327,Non-SRS,I-helix,25,False,True,Known
+*6/*11,p.K273fs(delA),p.R335W,273,335,Non-SRS,I-helix,25,False,True,Known
+*11/*25,p.R335W,,335,0,I-helix,Non-SRS,25,True,False,Known
+*26/*39,p.T130R; p.T130M,p.G98V,130,98,Non-SRS,SRS1,20,True,True,Known
+*26/*42,p.T130R; p.T130M,p.R124Q,130,124,Non-SRS,SRS1,20,True,True,Known
+*26/*43,p.T130R; p.T130M,p.R124W,130,124,Non-SRS,SRS1,20,True,True,Known
+*26/*52,p.T130R; p.T130M,p.T299R,130,299,Non-SRS,SRS4,20,True,True,Known
+*43/*46,p.R124W,p.A149T,124,149,SRS1,Non-SRS,20,True,True,Known
+*44/*52,p.T130R; p.T130M,p.T299R,130,299,Non-SRS,SRS4,20,True,True,Known
+*45/*50,p.R132W,p.P227S,132,227,Non-SRS,SRS2,20,True,True,Known
+*28/*33,p.Q214L,p.R132Q,214,132,SRS2,Non-SRS,20,True,True,Known
+*43/*61,p.R124W,"p.R144C , p.N457S",124,144,SRS1,Non-SRS,20,True,True,Known
+*24/*42,p.E354K,p.R124Q,354,124,Non-SRS,SRS1,20,True,True,Known
+*35/*46,"p.R125H; p.R125L , p.R144C",p.A149T,125,149,SRS1,Non-SRS,20,True,True,Known
+*26/*35,p.T130R; p.T130M,"p.R125H; p.R125L , p.R144C",130,125,Non-SRS,SRS1,20,True,True,Known
+*25/*43,,p.R124W,0,124,Non-SRS,SRS1,20,False,True,Known
+*25/*52,,p.T299R,0,299,Non-SRS,SRS4,20,False,True,Known
+*25/*50,,p.P227S,0,227,Non-SRS,SRS2,20,False,True,Known
+*35/*45,"p.R125H; p.R125L , p.R144C",p.R132W,125,132,SRS1,Non-SRS,20,True,True,Known
+*25/*42,,p.R124Q,0,124,Non-SRS,SRS1,20,False,True,Known
+*25/*39,,p.G98V,0,98,Non-SRS,SRS1,20,False,True,Known
+*25/*35,,"p.R125H; p.R125L , p.R144C",0,125,Non-SRS,SRS1,20,False,True,Known
+*45/*52,p.R132W,p.T299R,132,299,Non-SRS,SRS4,20,True,True,Known
+*25/*28,,p.Q214L,0,214,Non-SRS,SRS2,20,False,True,Known
+*46/*52,p.A149T,p.T299R,149,299,Non-SRS,SRS4,20,True,True,Known
+*24/*52,p.E354K,p.T299R,354,299,Non-SRS,SRS4,20,True,True,Known
+*24/*50,p.E354K,p.P227S,354,227,Non-SRS,SRS2,20,True,True,Known
+*35/*61,"p.R125H; p.R125L , p.R144C","p.R144C , p.N457S",125,144,SRS1,Non-SRS,20,True,True,Known
+*37/*39,p.D49G,p.G98V,49,98,Non-SRS,SRS1,20,True,True,Known
+*35/*44,"p.R125H; p.R125L , p.R144C",p.T130R; p.T130M,125,130,SRS1,Non-SRS,20,True,True,Known
+*33/*35,p.R132Q,"p.R125H; p.R125L , p.R144C",132,125,Non-SRS,SRS1,20,True,True,Known
+*33/*39,p.R132Q,p.G98V,132,98,Non-SRS,SRS1,20,True,True,Known
+*33/*42,p.R132Q,p.R124Q,132,124,Non-SRS,SRS1,20,True,True,Known
+*33/*43,p.R132Q,p.R124W,132,124,Non-SRS,SRS1,20,True,True,Known
+*33/*50,p.R132Q,p.P227S,132,227,Non-SRS,SRS2,20,True,True,Known
+*43/*45,p.R124W,p.R132W,124,132,SRS1,Non-SRS,20,True,True,Known
+*43/*44,p.R124W,p.T130R; p.T130M,124,130,SRS1,Non-SRS,20,True,True,Known
+*33/*52,p.R132Q,p.T299R,132,299,Non-SRS,SRS4,20,True,True,Known
+*42/*61,p.R124Q,"p.R144C , p.N457S",124,144,SRS1,Non-SRS,20,True,True,Known
+*42/*46,p.R124Q,p.A149T,124,149,SRS1,Non-SRS,20,True,True,Known
+*42/*45,p.R124Q,p.R132W,124,132,SRS1,Non-SRS,20,True,True,Known
+*42/*44,p.R124Q,p.T130R; p.T130M,124,130,SRS1,Non-SRS,20,True,True,Known
+*39/*61,p.G98V,"p.R144C , p.N457S",98,144,SRS1,Non-SRS,20,True,True,Known
+*35/*37,"p.R125H; p.R125L , p.R144C",p.D49G,125,49,SRS1,Non-SRS,20,True,True,Known
+*39/*46,p.G98V,p.A149T,98,149,SRS1,Non-SRS,20,True,True,Known
+*39/*45,p.G98V,p.R132W,98,132,SRS1,Non-SRS,20,True,True,Known
+*39/*44,p.G98V,p.T130R; p.T130M,98,130,SRS1,Non-SRS,20,True,True,Known
+*29/*52,p.P279T,p.T299R,279,299,Non-SRS,SRS4,20,True,True,Known
+*29/*43,p.P279T,p.R124W,279,124,Non-SRS,SRS1,20,True,True,Known
+*29/*42,p.P279T,p.R124Q,279,124,Non-SRS,SRS1,20,True,True,Known
+*29/*39,p.P279T,p.G98V,279,98,Non-SRS,SRS1,20,True,True,Known
+*29/*35,p.P279T,"p.R125H; p.R125L , p.R144C",279,125,Non-SRS,SRS1,20,True,True,Known
+*37/*52,p.D49G,p.T299R,49,299,Non-SRS,SRS4,20,True,True,Known
+*28/*45,p.Q214L,p.R132W,214,132,SRS2,Non-SRS,20,True,True,Known
+*37/*43,p.D49G,p.R124W,49,124,Non-SRS,SRS1,20,True,True,Known
+*37/*42,p.D49G,p.R124Q,49,124,Non-SRS,SRS1,20,True,True,Known
+*24/*43,p.E354K,p.R124W,354,124,Non-SRS,SRS1,20,True,True,Known
+*52/*61,p.T299R,"p.R144C , p.N457S",299,144,SRS4,Non-SRS,20,True,True,Known
+*24/*39,p.E354K,p.G98V,354,98,Non-SRS,SRS1,20,True,True,Known
+*23/*43,p.V76M,p.R124W,76,124,Non-SRS,SRS1,20,True,True,Known
+*8/*39,p.R150H; p.R150L,p.G98V,150,98,Non-SRS,SRS1,20,True,True,Known
+*8/*42,p.R150H; p.R150L,p.R124Q,150,124,Non-SRS,SRS1,20,True,True,Known
+*23/*39,p.V76M,p.G98V,76,98,Non-SRS,SRS1,20,True,True,Known
+*23/*35,p.V76M,"p.R125H; p.R125L , p.R144C",76,125,Non-SRS,SRS1,20,True,True,Known
+*14/*45,p.R125H; p.R125L,p.R132W,125,132,SRS1,Non-SRS,20,True,True,Known
+*8/*52,p.R150H; p.R150L,p.T299R,150,299,Non-SRS,SRS4,20,True,True,Known
+*16/*45,p.T299A,p.R132W,299,132,SRS4,Non-SRS,20,True,True,Known
+*16/*33,p.T299A,p.R132Q,299,132,SRS4,Non-SRS,20,True,True,Known
+*16/*25,p.T299A,,299,0,SRS4,Non-SRS,20,True,False,Known
+*16/*24,p.T299A,p.E354K,299,354,SRS4,Non-SRS,20,True,True,Known
+*15/*52,p.S162X,p.T299R,162,299,Non-SRS,SRS4,20,False,True,Known
+*15/*50,p.S162X,p.P227S,162,227,Non-SRS,SRS2,20,False,True,Known
+*15/*43,p.S162X,p.R124W,162,124,Non-SRS,SRS1,20,False,True,Known
+*15/*42,p.S162X,p.R124Q,162,124,Non-SRS,SRS1,20,False,True,Known
+*15/*39,p.S162X,p.G98V,162,98,Non-SRS,SRS1,20,False,True,Known
+*15/*35,p.S162X,"p.R125H; p.R125L , p.R144C",162,125,Non-SRS,SRS1,20,False,True,Known
+*15/*28,p.S162X,p.Q214L,162,214,Non-SRS,SRS2,20,False,True,Known
+*14/*15,p.R125H; p.R125L,p.S162X,125,162,SRS1,Non-SRS,20,True,False,Known
+*14/*24,p.R125H; p.R125L,p.E354K,125,354,SRS1,Non-SRS,20,True,True,Known
+*14/*25,p.R125H; p.R125L,,125,0,SRS1,Non-SRS,20,True,False,Known
+*15/*16,p.S162X,p.T299A,162,299,Non-SRS,SRS4,20,False,True,Known
+*23/*42,p.V76M,p.R124Q,76,124,Non-SRS,SRS1,20,True,True,Known
+*8/*43,p.R150H; p.R150L,p.R124W,150,124,Non-SRS,SRS1,20,True,True,Known
+*8/*35,p.R150H; p.R150L,"p.R125H; p.R125L , p.R144C",150,125,Non-SRS,SRS1,20,True,True,Known
+*6/*35,p.K273fs(delA),"p.R125H; p.R125L , p.R144C",273,125,Non-SRS,SRS1,20,False,True,Known
+*2/*35,p.R144C,"p.R125H; p.R125L , p.R144C",144,125,Non-SRS,SRS1,20,True,True,Known
+*2/*39,p.R144C,p.G98V,144,98,Non-SRS,SRS1,20,True,True,Known
+*2/*42,p.R144C,p.R124Q,144,124,Non-SRS,SRS1,20,True,True,Known
+*24/*35,p.E354K,"p.R125H; p.R125L , p.R144C",354,125,Non-SRS,SRS1,20,True,True,Known
+*2/*43,p.R144C,p.R124W,144,124,Non-SRS,SRS1,20,True,True,Known
+*2/*52,p.R144C,p.T299R,144,299,Non-SRS,SRS4,20,True,True,Known
+*6/*14,p.K273fs(delA),p.R125H; p.R125L,273,125,Non-SRS,SRS1,20,False,True,Known
+*6/*16,p.K273fs(delA),p.T299A,273,299,Non-SRS,SRS4,20,False,True,Known
+*6/*28,p.K273fs(delA),p.Q214L,273,214,Non-SRS,SRS2,20,False,True,Known
+*24/*28,p.E354K,p.Q214L,354,214,Non-SRS,SRS2,20,True,True,Known
+*14/*33,p.R125H; p.R125L,p.R132Q,125,132,SRS1,Non-SRS,20,True,True,Known
+*6/*39,p.K273fs(delA),p.G98V,273,98,Non-SRS,SRS1,20,False,True,Known
+*6/*52,p.K273fs(delA),p.T299R,273,299,Non-SRS,SRS4,20,False,True,Known
+*23/*52,p.V76M,p.T299R,76,299,Non-SRS,SRS4,20,True,True,Known
+*6/*50,p.K273fs(delA),p.P227S,273,227,Non-SRS,SRS2,20,False,True,Known
+*6/*42,p.K273fs(delA),p.R124Q,273,124,Non-SRS,SRS1,20,False,True,Known
+*6/*43,p.K273fs(delA),p.R124W,273,124,Non-SRS,SRS1,20,False,True,Known
+*6/*38,p.K273fs(delA),p.G96A,273,96,Non-SRS,Helix,15,False,True,Known
+*13/*45,p.L90P,p.R132W,90,132,Helix,Non-SRS,15,True,True,Known
+*2/*13,p.R144C,p.L90P,144,90,Non-SRS,Helix,15,True,True,Known
+*33/*38,p.R132Q,p.G96A,132,96,Non-SRS,Helix,15,True,True,Known
+*38/*45,p.G96A,p.R132W,96,132,Helix,Non-SRS,15,True,True,Known
+*13/*61,p.L90P,"p.R144C , p.N457S",90,144,Helix,Non-SRS,15,True,True,Known
+*13/*46,p.L90P,p.A149T,90,149,Helix,Non-SRS,15,True,True,Known
+*13/*44,p.L90P,p.T130R; p.T130M,90,130,Helix,Non-SRS,15,True,True,Known
+*13/*24,p.L90P,p.E354K,90,354,Helix,Non-SRS,15,True,True,Known
+*6/*13,p.K273fs(delA),p.L90P,273,90,Non-SRS,Helix,15,False,True,Known
+*13/*37,p.L90P,p.D49G,90,49,Helix,Non-SRS,15,True,True,Known
+*13/*15,p.L90P,p.S162X,90,162,Helix,Non-SRS,15,True,False,Known
+*13/*33,p.L90P,p.R132Q,90,132,Helix,Non-SRS,15,True,True,Known
+*13/*29,p.L90P,p.P279T,90,279,Helix,Non-SRS,15,True,True,Known
+*8/*13,p.R150H; p.R150L,p.L90P,150,90,Non-SRS,Helix,15,True,True,Known
+*13/*25,p.L90P,,90,0,Helix,Non-SRS,15,True,False,Known
+*13/*23,p.L90P,p.V76M,90,76,Helix,Non-SRS,15,True,True,Known
+*13/*26,p.L90P,p.T130R; p.T130M,90,130,Helix,Non-SRS,15,True,True,Known
+*15/*38,p.S162X,p.G96A,162,96,Non-SRS,Helix,15,False,True,Known
+*24/*38,p.E354K,p.G96A,354,96,Non-SRS,Helix,15,True,True,Known
+*25/*38,,p.G96A,0,96,Non-SRS,Helix,15,False,True,Known
+*6/*33,p.K273fs(delA),p.R132Q,273,132,Non-SRS,Non-SRS,0,False,True,Known
+*25/*29,,p.P279T,0,279,Non-SRS,Non-SRS,0,False,True,Known
+*6/*23,p.K273fs(delA),p.V76M,273,76,Non-SRS,Non-SRS,0,False,True,Known
+*6/*24,p.K273fs(delA),p.E354K,273,354,Non-SRS,Non-SRS,0,False,True,Known
+*6/*25,p.K273fs(delA),,273,0,Non-SRS,Non-SRS,0,False,False,Known
+*6/*26,p.K273fs(delA),p.T130R; p.T130M,273,130,Non-SRS,Non-SRS,0,False,True,Known
+*24/*29,p.E354K,p.P279T,354,279,Non-SRS,Non-SRS,0,True,True,Known
+*6/*29,p.K273fs(delA),p.P279T,273,279,Non-SRS,Non-SRS,0,False,True,Known
+*33/*33,p.R132Q,p.R132Q,132,132,Non-SRS,Non-SRS,0,True,True,Known
+*24/*33,p.E354K,p.R132Q,354,132,Non-SRS,Non-SRS,0,True,True,Known
+*25/*33,,p.R132Q,0,132,Non-SRS,Non-SRS,0,False,True,Known
+*6/*37,p.K273fs(delA),p.D49G,273,49,Non-SRS,Non-SRS,0,False,True,Known
+*24/*26,p.E354K,p.T130R; p.T130M,354,130,Non-SRS,Non-SRS,0,True,True,Known
+*25/*37,,p.D49G,0,49,Non-SRS,Non-SRS,0,False,True,Known
+*24/*25,p.E354K,,354,0,Non-SRS,Non-SRS,0,True,False,Known
+*6/*44,p.K273fs(delA),p.T130R; p.T130M,273,130,Non-SRS,Non-SRS,0,False,True,Known
+*6/*15,p.K273fs(delA),p.S162X,273,162,Non-SRS,Non-SRS,0,False,False,Known
+*25/*26,,p.T130R; p.T130M,0,130,Non-SRS,Non-SRS,0,False,True,Known
+*6/*46,p.K273fs(delA),p.A149T,273,149,Non-SRS,Non-SRS,0,False,True,Known
+*6/*8,p.K273fs(delA),p.R150H; p.R150L,273,150,Non-SRS,Non-SRS,0,False,True,Known
+*24/*45,p.E354K,p.R132W,354,132,Non-SRS,Non-SRS,0,True,True,Known
+*2/*15,p.R144C,p.S162X,144,162,Non-SRS,Non-SRS,0,True,False,Known
+*2/*24,p.R144C,p.E354K,144,354,Non-SRS,Non-SRS,0,True,True,Known
+*2/*25,p.R144C,,144,0,Non-SRS,Non-SRS,0,True,False,Known
+*45/*61,p.R132W,"p.R144C , p.N457S",132,144,Non-SRS,Non-SRS,0,True,True,Known
+*2/*33,p.R144C,p.R132Q,144,132,Non-SRS,Non-SRS,0,True,True,Known
+*24/*46,p.E354K,p.A149T,354,149,Non-SRS,Non-SRS,0,True,True,Known
+*45/*46,p.R132W,p.A149T,132,149,Non-SRS,Non-SRS,0,True,True,Known
+*45/*45,p.R132W,p.R132W,132,132,Non-SRS,Non-SRS,0,True,True,Known
+*24/*37,p.E354K,p.D49G,354,49,Non-SRS,Non-SRS,0,True,True,Known
+*44/*45,p.T130R; p.T130M,p.R132W,130,132,Non-SRS,Non-SRS,0,True,True,Known
+*24/*61,p.E354K,"p.R144C , p.N457S",354,144,Non-SRS,Non-SRS,0,True,True,Known
+*2/*45,p.R144C,p.R132W,144,132,Non-SRS,Non-SRS,0,True,True,Known
+*25/*25,,,0,0,Non-SRS,Non-SRS,0,False,False,Known
+*6/*6,p.K273fs(delA),p.K273fs(delA),273,273,Non-SRS,Non-SRS,0,False,False,Known
+*6/*45,p.K273fs(delA),p.R132W,273,132,Non-SRS,Non-SRS,0,False,True,Known
+*24/*24,p.E354K,p.E354K,354,354,Non-SRS,Non-SRS,0,True,True,Known
+*15/*15,p.S162X,p.S162X,162,162,Non-SRS,Non-SRS,0,False,False,Known
+*15/*29,p.S162X,p.P279T,162,279,Non-SRS,Non-SRS,0,False,True,Known
+*15/*45,p.S162X,p.R132W,162,132,Non-SRS,Non-SRS,0,False,True,Known
+*15/*44,p.S162X,p.T130R; p.T130M,162,130,Non-SRS,Non-SRS,0,False,True,Known
+*29/*45,p.P279T,p.R132W,279,132,Non-SRS,Non-SRS,0,True,True,Known
+*2/*6,p.R144C,p.K273fs(delA),144,273,Non-SRS,Non-SRS,0,True,False,Known
+*33/*61,p.R132Q,"p.R144C , p.N457S",132,144,Non-SRS,Non-SRS,0,True,True,Known
+*15/*37,p.S162X,p.D49G,162,49,Non-SRS,Non-SRS,0,False,True,Known
+*15/*33,p.S162X,p.R132Q,162,132,Non-SRS,Non-SRS,0,False,True,Known
+*33/*46,p.R132Q,p.A149T,132,149,Non-SRS,Non-SRS,0,True,True,Known
+*25/*44,,p.T130R; p.T130M,0,130,Non-SRS,Non-SRS,0,False,True,Known
+*33/*45,p.R132Q,p.R132W,132,132,Non-SRS,Non-SRS,0,True,True,Known
+*24/*44,p.E354K,p.T130R; p.T130M,354,130,Non-SRS,Non-SRS,0,True,True,Known
+*15/*26,p.S162X,p.T130R; p.T130M,162,130,Non-SRS,Non-SRS,0,False,True,Known
+*15/*25,p.S162X,,162,0,Non-SRS,Non-SRS,0,False,False,Known
+*15/*24,p.S162X,p.E354K,162,354,Non-SRS,Non-SRS,0,False,True,Known
+*15/*23,p.S162X,p.V76M,162,76,Non-SRS,Non-SRS,0,False,True,Known
+*33/*37,p.R132Q,p.D49G,132,49,Non-SRS,Non-SRS,0,True,True,Known
+*15/*46,p.S162X,p.A149T,162,149,Non-SRS,Non-SRS,0,False,True,Known
+*29/*33,p.P279T,p.R132Q,279,132,Non-SRS,Non-SRS,0,True,True,Known
+*15/*61,p.S162X,"p.R144C , p.N457S",162,144,Non-SRS,Non-SRS,0,False,True,Known
+*23/*24,p.V76M,p.E354K,76,354,Non-SRS,Non-SRS,0,True,True,Known
+*6/*61,p.K273fs(delA),"p.R144C , p.N457S",273,144,Non-SRS,Non-SRS,0,False,True,Known
+*25/*45,,p.R132W,0,132,Non-SRS,Non-SRS,0,False,True,Known
+*25/*46,,p.A149T,0,149,Non-SRS,Non-SRS,0,False,True,Known
+*8/*15,p.R150H; p.R150L,p.S162X,150,162,Non-SRS,Non-SRS,0,True,False,Known
+*8/*24,p.R150H; p.R150L,p.E354K,150,354,Non-SRS,Non-SRS,0,True,True,Known
+*8/*25,p.R150H; p.R150L,,150,0,Non-SRS,Non-SRS,0,True,False,Known
+*37/*45,p.D49G,p.R132W,49,132,Non-SRS,Non-SRS,0,True,True,Known
+*8/*33,p.R150H; p.R150L,p.R132Q,150,132,Non-SRS,Non-SRS,0,True,True,Known
+*23/*45,p.V76M,p.R132W,76,132,Non-SRS,Non-SRS,0,True,True,Known
+*25/*61,,"p.R144C , p.N457S",0,144,Non-SRS,Non-SRS,0,False,True,Known
+*26/*33,p.T130R; p.T130M,p.R132Q,130,132,Non-SRS,Non-SRS,0,True,True,Known
+*23/*33,p.V76M,p.R132Q,76,132,Non-SRS,Non-SRS,0,True,True,Known
+*8/*45,p.R150H; p.R150L,p.R132W,150,132,Non-SRS,Non-SRS,0,True,True,Known
+*23/*25,p.V76M,,76,0,Non-SRS,Non-SRS,0,True,False,Known
+*26/*45,p.T130R; p.T130M,p.R132W,130,132,Non-SRS,Non-SRS,0,True,True,Known
+*33/*44,p.R132Q,p.T130R; p.T130M,132,130,Non-SRS,Non-SRS,0,True,True,Known

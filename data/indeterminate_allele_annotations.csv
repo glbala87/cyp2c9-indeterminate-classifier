@@ -1,0 +1,75 @@
+Allele,Count_in_Indeterminate,Protein_Effect,Position,Region,Region_Description,Region_Score,Mutation_Type,Ref_AA,Alt_AA,Grantham_Score,Substitution_Class,Charge_Change,Hydrophobicity_Change,Size_Change,Known_Function,Known_Activity,Evidence_Level,Has_PharmGKB_Evidence,Predicted_Impact,Impact_Score
+*2,39,p.R144C,144,Non-SRS,Outside substrate recognition sites,0.3,missense,R,C,180.0,radical,True,False,True,Decreased,0.5,CPIC Level A,True,Decreased (Known),0.7
+*3,39,p.I359L,359,SRS5,Substrate Recognition Site 5,0.9,missense,I,L,5.0,conservative,False,False,False,No Function,0.0,CPIC Level A,True,Loss of Function (Known),1.0
+*4,39,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,No Function,0.0,CPIC,True,Loss of Function (Known),1.0
+*5,39,p.D360E,360,SRS5,Substrate Recognition Site 5,0.9,missense,D,E,45.0,conservative,False,False,False,No Function,0.0,CPIC Level A,True,Loss of Function (Known),1.0
+*6,39,p.K273fs(delA),273,Non-SRS,Outside substrate recognition sites,0.3,frameshift,K,f,100.0,moderately_conservative,True,True,True,No Function,0.0,CPIC Level A,True,Loss of Function (Known),1.0
+*7,76,p.L19I,19,Non-SRS,Outside substrate recognition sites,0.3,missense,L,I,5.0,conservative,False,False,False,Unknown,,Limited,True,Uncertain,0.3
+*8,39,p.R150H; p.R150L,150,Non-SRS,Outside substrate recognition sites,0.3,missense,R,H,29.0,conservative,False,False,True,Decreased,0.5,CPIC Level A,True,Decreased (Known),0.7
+*9,39,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Normal,1.0,CPIC,True,Normal (Known),0.0
+*10,76,p.E272G,272,Non-SRS,Outside substrate recognition sites,0.3,missense,E,G,98.0,moderately_conservative,True,False,True,Unknown,,Limited,True,Uncertain,0.3
+*11,39,p.R335W,335,Non-SRS,Outside substrate recognition sites,0.3,missense,R,W,101.0,moderately_radical,True,True,False,Decreased,0.5,CPIC Level A,True,Decreased (Known),0.7
+*12,39,p.P489S,489,SRS6,Heme binding (critical),1.0,missense,P,S,74.0,moderately_conservative,False,True,False,Decreased,0.5,Literature,True,Decreased (Known),0.7
+*13,39,p.L90P,90,Non-SRS,Outside substrate recognition sites,0.3,missense,L,P,98.0,moderately_conservative,False,False,True,No Function,0.0,Literature,True,Loss of Function (Known),1.0
+*14,39,p.R125H; p.R125L,125,SRS1,Substrate Recognition Site 1,0.7,missense,R,H,29.0,conservative,False,False,True,Decreased,0.5,Literature,True,Decreased (Known),0.7
+*15,39,p.S162X,162,Non-SRS,Outside substrate recognition sites,0.3,truncating,S,X,,severe,,,,No Function,0.0,Literature,False,Loss of Function (Known),1.0
+*16,39,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Decreased,0.5,Literature,True,Decreased (Known),0.7
+*17,76,p.P382S,382,SRS5,Substrate Recognition Site 5,0.9,missense,P,S,74.0,moderately_conservative,False,True,False,Unknown,,Limited,False,Possibly Decreased,0.6
+*18,76,"p.I359L , p.D397A",359,SRS5,Substrate Recognition Site 5,0.9,missense,I,L,5.0,conservative,False,False,False,Unknown,,Limited,False,Possibly Decreased,0.6
+*19,76,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Unknown,,Limited,True,Uncertain,0.3
+*20,76,p.G70R,70,Non-SRS,Outside substrate recognition sites,0.3,missense,G,R,125.0,moderately_radical,True,False,True,Unknown,,,False,Uncertain,0.3
+*21,76,p.P30L,30,Non-SRS,Outside substrate recognition sites,0.3,missense,P,L,98.0,moderately_conservative,False,False,True,Unknown,,,False,Uncertain,0.3
+*22,76,p.N41D,41,Non-SRS,Outside substrate recognition sites,0.3,missense,N,D,23.0,conservative,True,False,False,Unknown,,,False,Uncertain,0.3
+*23,39,p.V76M,76,Non-SRS,Outside substrate recognition sites,0.3,missense,V,M,21.0,conservative,False,False,True,Unknown,,,True,Uncertain,0.3
+*24,39,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Unknown,,,True,Uncertain,0.3
+*25,39,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Unknown,,,False,Uncertain,0.3
+*26,39,p.T130R; p.T130M,130,Non-SRS,Outside substrate recognition sites,0.3,missense,T,R,100.0,moderately_conservative,True,False,True,Unknown,,,False,Uncertain,0.3
+*27,76,p.R150H; p.R150L,150,Non-SRS,Outside substrate recognition sites,0.3,missense,R,H,29.0,conservative,False,False,True,Unknown,,3,True,Uncertain,0.3
+*28,39,p.Q214L,214,SRS2,Substrate Recognition Site 2,0.7,missense,Q,L,100.0,moderately_conservative,False,True,True,Unknown,,,False,Uncertain,0.3
+*29,39,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Decreased,0.5,CPIC,True,Decreased (Known),0.7
+*30,39,p.A477T,477,SRS6,Heme binding (critical),1.0,missense,A,T,58.0,moderately_conservative,False,True,True,Unknown,,,True,Possibly Decreased,0.6
+*31,39,p.I327T,327,Non-SRS,Outside substrate recognition sites,0.3,missense,I,T,89.0,moderately_conservative,False,True,True,Decreased,0.5,Literature,True,Decreased (Known),0.7
+*32,76,p.V490F,490,SRS6,Heme binding (critical),1.0,missense,V,F,50.0,conservative,False,False,True,Unknown,,,True,Possibly Decreased,0.6
+*33,39,p.R132Q,132,Non-SRS,Outside substrate recognition sites,0.3,missense,R,Q,43.0,conservative,True,False,True,Decreased,0.5,Literature,True,Decreased (Known),0.7
+*34,76,p.R132Q,132,Non-SRS,Outside substrate recognition sites,0.3,missense,R,Q,43.0,conservative,True,False,True,Unknown,,,True,Uncertain,0.3
+*35,39,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Unknown,,,False,Uncertain,0.3
+*36,76,"p.M1V , p.D360E",1,Non-SRS,Outside substrate recognition sites,0.3,missense,M,V,21.0,conservative,False,False,True,Unknown,,3,True,Uncertain,0.3
+*37,39,p.D49G,49,Non-SRS,Outside substrate recognition sites,0.3,missense,D,G,94.0,moderately_conservative,True,False,True,Unknown,,1A,True,Uncertain,0.3
+*38,39,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Unknown,,3,True,Uncertain,0.3
+*39,39,p.G98V,98,SRS1,Substrate Recognition Site 1,0.7,missense,G,V,100.0,moderately_conservative,False,True,True,Unknown,,1A,True,Uncertain,0.3
+*40,76,p.F110S,110,SRS1,Substrate Recognition Site 1,0.7,missense,F,S,100.0,moderately_conservative,False,True,True,Unknown,,3,True,Uncertain,0.3
+*41,76,p.K119R,119,SRS1,Substrate Recognition Site 1,0.7,missense,K,R,26.0,conservative,False,False,False,Unknown,,3,True,Uncertain,0.3
+*42,39,p.R124Q,124,SRS1,Substrate Recognition Site 1,0.7,missense,R,Q,43.0,conservative,True,False,True,Unknown,,1A,True,Uncertain,0.3
+*43,39,p.R124W,124,SRS1,Substrate Recognition Site 1,0.7,missense,R,W,101.0,moderately_radical,True,True,False,Unknown,,1A,True,Uncertain,0.3
+*44,39,p.T130R; p.T130M,130,Non-SRS,Outside substrate recognition sites,0.3,missense,T,R,100.0,moderately_conservative,True,False,True,Unknown,,3,True,Uncertain,0.3
+*45,39,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Unknown,,1A,True,Uncertain,0.3
+*46,39,p.A149T,149,Non-SRS,Outside substrate recognition sites,0.3,missense,A,T,58.0,moderately_conservative,False,True,True,Unknown,,3,True,Uncertain,0.3
+*47,76,p.P163L,163,Non-SRS,Outside substrate recognition sites,0.3,missense,P,L,98.0,moderately_conservative,False,False,True,Unknown,,3,True,Uncertain,0.3
+*48,76,p.I207T,207,SRS2,Substrate Recognition Site 2,0.7,missense,I,T,89.0,moderately_conservative,False,True,True,Unknown,,3,True,Uncertain,0.3
+*49,76,p.I222V,222,SRS2,Substrate Recognition Site 2,0.7,missense,I,V,29.0,conservative,False,False,True,Unknown,,3,True,Uncertain,0.3
+*50,39,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Unknown,,1A,True,Uncertain,0.3
+*51,76,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Unknown,,3,True,Uncertain,0.3
+*52,39,p.T299R,299,SRS4,I-helix (catalytic),0.8,missense,T,R,100.0,moderately_conservative,True,False,True,Unknown,,1A,True,Possibly Decreased,0.5
+*53,76,p.P317S,317,SRS4,I-helix (catalytic),0.8,missense,P,S,74.0,moderately_conservative,False,True,False,Unknown,,3,True,Possibly Decreased,0.5
+*54,76,p.S343R,343,Non-SRS,Outside substrate recognition sites,0.3,missense,S,R,110.0,moderately_radical,True,False,True,Unknown,,3,True,Uncertain,0.3
+*55,39,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Unknown,,1A,True,Uncertain,0.3
+*56,76,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Unknown,,3,True,Uncertain,0.3
+*57,76,p.N204H,204,SRS2,Substrate Recognition Site 2,0.7,missense,N,H,68.0,moderately_conservative,True,False,False,Unknown,,,True,Uncertain,0.3
+*58,76,p.P337T,337,Non-SRS,Outside substrate recognition sites,0.3,missense,P,T,100.0,moderately_conservative,False,True,True,Unknown,,,True,Uncertain,0.3
+*59,76,p.I434F,434,SRS6,Heme binding (critical),1.0,missense,I,F,21.0,conservative,False,False,False,Decreased,0.25,PharmGKB,True,Decreased (Known),0.7
+*60,76,p.L467P,467,SRS6,Heme binding (critical),1.0,missense,L,P,98.0,moderately_conservative,False,False,True,Unknown,,3,True,Possibly Decreased,0.6
+*61,39,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Decreased,0.25,Literature,True,Decreased (Known),0.7
+*62,76,p.R125C,125,SRS1,Substrate Recognition Site 1,0.7,missense,R,C,180.0,radical,True,False,True,Unknown,,3,True,Possibly Decreased,0.5
+*63,76,p.R144H,144,Non-SRS,Outside substrate recognition sites,0.3,missense,R,H,29.0,conservative,False,False,True,Unknown,,,False,Uncertain,0.3
+*64,76,p.S280C,280,Non-SRS,Outside substrate recognition sites,0.3,missense,S,C,112.0,moderately_radical,False,False,False,Unknown,,,False,Uncertain,0.3
+*65,76,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Unknown,,,False,Uncertain,0.3
+*66,76,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Unknown,,,False,Uncertain,0.3
+*67,76,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Unknown,,,False,Uncertain,0.3
+*68,76,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Unknown,,,False,Uncertain,0.3
+*69,76,p.D191G,191,Non-SRS,Outside substrate recognition sites,0.3,missense,D,G,94.0,moderately_conservative,True,False,True,Unknown,,,False,Uncertain,0.3
+*70,76,p.G442V,442,SRS6,Heme binding (critical),1.0,missense,G,V,100.0,moderately_conservative,False,True,True,Unknown,,,False,Possibly Decreased,0.6
+*71,76,"p.E272G , p.P489S",272,Non-SRS,Outside substrate recognition sites,0.3,missense,E,G,98.0,moderately_conservative,True,False,True,Unknown,,,False,Uncertain,0.3
+*72,76,p.A149V,149,Non-SRS,Outside substrate recognition sites,0.3,missense,A,V,64.0,moderately_conservative,False,False,True,Decreased,0.25,Literature,True,Decreased (Known),0.7
+*73,76,p.R150C,150,Non-SRS,Outside substrate recognition sites,0.3,missense,R,C,180.0,radical,True,False,True,Unknown,,,True,Possibly Decreased,0.5
+*74,76,nan,0,Unknown,Unknown,0.3,unknown,,,,unknown,,,,Unknown,,,True,Uncertain,0.3
+*75,76,p.N418T,418,Non-SRS,Outside substrate recognition sites,0.3,missense,N,T,100.0,moderately_conservative,False,False,False,Unknown,,,True,Uncertain,0.3

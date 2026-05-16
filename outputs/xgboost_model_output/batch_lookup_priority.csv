@@ -1,0 +1,12 @@
+variant,ref_aa,position,alt_aa,type,frequency,HGVS_protein,UniProt,Gene,CADD_score,REVEL_score,SpliceAI_score,ClinVar_significance,Source
+p.R125C,R,125,C,missense,63,NP_000762.2:p.R125C,P11712,CYP2C9,,,,,
+p.R433W,R,433,W,missense,48,NP_000762.2:p.R433W,P11712,CYP2C9,,,,,
+p.D397A,D,397,A,missense,41,NP_000762.2:p.D397A,P11712,CYP2C9,,,,,
+p.K273fs(delA),K,273,fs,frameshift,35,p.K273fs(delA),P11712,CYP2C9,,,,,
+p.R124W,R,124,W,missense,35,NP_000762.2:p.R124W,P11712,CYP2C9,,,,,
+p.G98V,G,98,V,missense,32,NP_000762.2:p.G98V,P11712,CYP2C9,,,,,
+p.R150C,R,150,C,missense,26,NP_000762.2:p.R150C,P11712,CYP2C9,,,,,
+p.F110S,F,110,S,missense,23,NP_000762.2:p.F110S,P11712,CYP2C9,,,,,
+p.K119R,K,119,R,missense,22,NP_000762.2:p.K119R,P11712,CYP2C9,,,,,
+p.N204H,N,204,H,missense,22,NP_000762.2:p.N204H,P11712,CYP2C9,,,,,
+p.R124Q,R,124,Q,missense,22,NP_000762.2:p.R124Q,P11712,CYP2C9,,,,,

@@ -1,0 +1,9 @@
+Allele,Count_in_Indeterminate,Protein_Effect,Position,Region,Region_Description,Region_Score,Mutation_Type,Ref_AA,Alt_AA,Grantham_Score,Substitution_Class,Charge_Change,Hydrophobicity_Change,Size_Change,Known_Function,Known_Activity,Evidence_Level,Has_PharmGKB_Evidence,Predicted_Impact,Impact_Score
+*17,76,p.P382S,382,SRS5,Substrate Recognition Site 5,0.9,missense,P,S,74.0,moderately_conservative,False,True,False,Unknown,,Limited,False,Possibly Decreased,0.6
+*18,76,"p.I359L , p.D397A",359,SRS5,Substrate Recognition Site 5,0.9,missense,I,L,5.0,conservative,False,False,False,Unknown,,Limited,False,Possibly Decreased,0.6
+*30,39,p.A477T,477,SRS6,Heme binding (critical),1.0,missense,A,T,58.0,moderately_conservative,False,True,True,Unknown,,,True,Possibly Decreased,0.6
+*32,76,p.V490F,490,SRS6,Heme binding (critical),1.0,missense,V,F,50.0,conservative,False,False,True,Unknown,,,True,Possibly Decreased,0.6
+*60,76,p.L467P,467,SRS6,Heme binding (critical),1.0,missense,L,P,98.0,moderately_conservative,False,False,True,Unknown,,3,True,Possibly Decreased,0.6
+*70,76,p.G442V,442,SRS6,Heme binding (critical),1.0,missense,G,V,100.0,moderately_conservative,False,True,True,Unknown,,,False,Possibly Decreased,0.6
+*52,39,p.T299R,299,SRS4,I-helix (catalytic),0.8,missense,T,R,100.0,moderately_conservative,True,False,True,Unknown,,1A,True,Possibly Decreased,0.5
+*53,76,p.P317S,317,SRS4,I-helix (catalytic),0.8,missense,P,S,74.0,moderately_conservative,False,True,False,Unknown,,3,True,Possibly Decreased,0.5

@@ -1,0 +1,23 @@
+Effect,Position,Region,Type,Source,Region_Priority,Allele
+p.L90P,90,Non-SRS,missense,Known,6,*13
+p.R144C,144,Non-SRS,missense,Known,6,*2
+p.R150H; p.R150L,150,Non-SRS,missense,Known,6,*8
+p.R125H; p.R125L,125,SRS1,missense,Known,3,*14
+p.R335W,335,Non-SRS,missense,Known,6,*11
+p.I359L,359,SRS5,missense,Known,2,*3
+p.D360E,360,SRS5,missense,Known,2,*5
+p.R433W,433,SRS6,missense,Predicted,1,*67
+p.I434F,434,SRS6,missense,Predicted,1,*59
+p.G442V,442,SRS6,missense,Predicted,1,*70
+p.Q454H,454,SRS6,missense,Predicted,1,Predicted
+p.L467P,467,SRS6,missense,Predicted,1,Predicted
+p.L361I,361,SRS5,missense,Predicted,2,Predicted
+p.L362V,362,SRS5,missense,Predicted,2,Predicted
+p.P382S,382,SRS5,missense,Predicted,2,Predicted
+p.I387V,387,SRS5,missense,Predicted,2,Predicted
+p.G98V,98,SRS1,missense,Predicted,3,Predicted
+p.F110S,110,SRS1,missense,Predicted,3,Predicted
+p.K119R,119,SRS1,missense,Predicted,3,Predicted
+p.R124W,124,SRS1,missense,Predicted,3,Predicted
+p.R124Q,124,SRS1,missense,Predicted,3,Predicted
+p.R125C,125,SRS1,missense,Predicted,3,Predicted

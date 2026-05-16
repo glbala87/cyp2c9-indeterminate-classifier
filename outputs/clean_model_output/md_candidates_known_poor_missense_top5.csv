@@ -1,0 +1,6 @@
+Diplotype,Effect1,Effect2,Position1,Position2,Region1,Region2,Priority,is_missense1,is_missense2,Source
+*3/*30,p.I359L,p.A477T,359,477,SRS5,SRS6,80,True,True,Known
+*3/*12,p.I359L,p.P489S,359,489,SRS5,SRS6,80,True,True,Known
+*12/*35,p.P489S,"p.R125H; p.R125L , p.R144C",489,125,SRS6,SRS1,70,True,True,Known
+*12/*52,p.P489S,p.T299R,489,299,SRS6,SRS4,70,True,True,Known
+*30/*39,p.A477T,p.G98V,477,98,SRS6,SRS1,70,True,True,Known
